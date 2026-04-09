@@ -1,0 +1,52 @@
+{"date": "2026-3-1", "race-name": "FFA Cleveleand", "category": "Single", "race-points": 50}
+
+[
+  {
+    "place": 1,
+    "bib": 198,
+    "name": "Jill Paha",
+    "sex": "F",
+    "age": 45,
+    "chip_time": "48:50.84"
+  },
+  {
+    "place": 2,
+    "bib": 4990,
+    "name": "Gabriel Zarzour",
+    "sex": "M",
+    "age": 28,
+    "chip_time": "51:18.04"
+  },
+  {
+    "place": 3,
+    "bib": 4988,
+    "name": "Joana Roberts",
+    "sex": "F",
+    "age": 44,
+    "chip_time": "52:39.79"
+  },
+  {
+    "place": 4,
+    "bib": 4989,
+    "name": "Rob Schofield",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "43:44.32"
+  },
+  {
+    "place": 5,
+    "bib": 200,
+    "name": "John Puskar",
+    "sex": "M",
+    "age": 35,
+    "chip_time": "49:40.56"
+  },
+  {
+    "place": 6,
+    "bib": 197,
+    "name": "Jeffrey Bolek",
+    "sex": "M",
+    "age": 75,
+    "chip_time": "53:16.65"
+  }
+]
