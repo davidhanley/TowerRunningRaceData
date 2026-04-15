@@ -1,0 +1,1444 @@
+{"date": "2026-3-28", "race-name": "FFA Pittsburgh", "source": "CompuScore", "race-points": 50}
+
+[
+  {
+    "place": 1,
+    "bib": 9,
+    "name": "JOSEPH NURRE",
+    "sex": "M",
+    "age": 35,
+    "chip_time": "5:30.7"
+  },
+  {
+    "place": 2,
+    "bib": 11,
+    "name": "TODD SUSZYNSKI",
+    "sex": "M",
+    "age": 53,
+    "chip_time": "6:21.68"
+  },
+  {
+    "place": 3,
+    "bib": 4,
+    "name": "HARRISON LAUER",
+    "sex": "M",
+    "age": 68,
+    "chip_time": "6:24.06"
+  },
+  {
+    "place": 4,
+    "bib": 85,
+    "name": "RYAN ZEMEL",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "6:29.3"
+  },
+  {
+    "place": 5,
+    "bib": 30,
+    "name": "KEVIN LYNCH",
+    "sex": "M",
+    "age": 61,
+    "chip_time": "6:58.39"
+  },
+  {
+    "place": 6,
+    "bib": 57,
+    "name": "V. MIMRAN",
+    "sex": "M",
+    "age": 10,
+    "chip_time": "7:16.9"
+  },
+  {
+    "place": 7,
+    "bib": 124,
+    "name": "TRICIA DAVIS",
+    "sex": "F",
+    "age": 33,
+    "chip_time": "7:22.98"
+  },
+  {
+    "place": 8,
+    "bib": 5,
+    "name": "JONATHAN LEVINSON",
+    "sex": "M",
+    "age": 37,
+    "chip_time": "7:24.53"
+  },
+  {
+    "place": 9,
+    "bib": 39,
+    "name": "KENNETH ZENKEVICH",
+    "sex": "M",
+    "age": 61,
+    "chip_time": "7:53.59"
+  },
+  {
+    "place": 10,
+    "bib": 16,
+    "name": "ESTEBAN CHACON",
+    "sex": "M",
+    "age": 32,
+    "chip_time": "7:54.64"
+  },
+  {
+    "place": 11,
+    "bib": 232,
+    "name": "W. KASSE",
+    "sex": "F",
+    "age": 10,
+    "chip_time": "8:01.72"
+  },
+  {
+    "place": 12,
+    "bib": 79,
+    "name": "ROBERT KIRKER",
+    "sex": "M",
+    "age": 49,
+    "chip_time": "8:05.87"
+  },
+  {
+    "place": 13,
+    "bib": 22,
+    "name": "MATT KIPPELEN",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "8:08.22"
+  },
+  {
+    "place": 14,
+    "bib": 96,
+    "name": "JIM WOLFE",
+    "sex": "M",
+    "age": 34,
+    "chip_time": "8:13.35"
+  },
+  {
+    "place": 15,
+    "bib": 27,
+    "name": "JONATHAN KUNKLE",
+    "sex": "M",
+    "age": 47,
+    "chip_time": "8:13.41"
+  },
+  {
+    "place": 16,
+    "bib": 21,
+    "name": "R. KIPPELEN",
+    "sex": "M",
+    "age": 10,
+    "chip_time": "8:23.73"
+  },
+  {
+    "place": 17,
+    "bib": 95,
+    "name": "JESSI WOLFE",
+    "sex": "F",
+    "age": 32,
+    "chip_time": "8:38.83"
+  },
+  {
+    "place": 18,
+    "bib": 89,
+    "name": "BRETT CORNELIUS",
+    "sex": "M",
+    "age": 31,
+    "chip_time": "8:39.57"
+  },
+  {
+    "place": 19,
+    "bib": 56,
+    "name": "E MIMRAN",
+    "sex": "F",
+    "age": 42,
+    "chip_time": "8:41.92"
+  },
+  {
+    "place": 20,
+    "bib": 233,
+    "name": "BETH CARNELL",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "8:44.04"
+  },
+  {
+    "place": 21,
+    "bib": 34,
+    "name": "DIANA MIZIKAR",
+    "sex": "F",
+    "age": 26,
+    "chip_time": "8:48.34"
+  },
+  {
+    "place": 22,
+    "bib": 208,
+    "name": "MICHAEL CEOFFE",
+    "sex": "M",
+    "age": 34,
+    "chip_time": "8:51.25"
+  },
+  {
+    "place": 23,
+    "bib": 45,
+    "name": "CHRISTOPHER BERARDUCCI",
+    "sex": "M",
+    "age": 37,
+    "chip_time": "8:52.58"
+  },
+  {
+    "place": 24,
+    "bib": 84,
+    "name": "MELISSA WISE",
+    "sex": "F",
+    "age": 47,
+    "chip_time": "8:53.71"
+  },
+  {
+    "place": 25,
+    "bib": 73,
+    "name": "ANTHONY ROBOSKY",
+    "sex": "M",
+    "age": 14,
+    "chip_time": "8:58.75"
+  },
+  {
+    "place": 26,
+    "bib": 19,
+    "name": "CARINNE HOUSTON",
+    "sex": "F",
+    "age": 40,
+    "chip_time": "9:05.23"
+  },
+  {
+    "place": 27,
+    "bib": 174,
+    "name": "ANDREI DIDYCZ",
+    "sex": "M",
+    "age": 60,
+    "chip_time": "9:07.74"
+  },
+  {
+    "place": 28,
+    "bib": 109,
+    "name": "C. FODI",
+    "sex": "M",
+    "age": 9,
+    "chip_time": "9:10.17"
+  },
+  {
+    "place": 29,
+    "bib": 201,
+    "name": "BRIAN LOUGHRIDGE",
+    "sex": "M",
+    "age": 45,
+    "chip_time": "9:14.95"
+  },
+  {
+    "place": 30,
+    "bib": 107,
+    "name": "TETIANA FERGUSON",
+    "sex": "F",
+    "age": 43,
+    "chip_time": "9:16.41"
+  },
+  {
+    "place": 31,
+    "bib": 177,
+    "name": "RANDY YOUNG",
+    "sex": "M",
+    "age": 54,
+    "chip_time": "9:17.3"
+  },
+  {
+    "place": 32,
+    "bib": 108,
+    "name": "LIA FODI",
+    "sex": "F",
+    "age": 44,
+    "chip_time": "9:19.09"
+  },
+  {
+    "place": 33,
+    "bib": 224,
+    "name": "ADAM LASFAR",
+    "sex": "M",
+    "age": 23,
+    "chip_time": "9:23.5"
+  },
+  {
+    "place": 34,
+    "bib": 153,
+    "name": "CHAMAR JONES",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "9:25.72"
+  },
+  {
+    "place": 35,
+    "bib": 81,
+    "name": "CASEY HUGHES",
+    "sex": "F",
+    "age": 27,
+    "chip_time": "9:27.15"
+  },
+  {
+    "place": 36,
+    "bib": 160,
+    "name": "LEONARD BUTLER",
+    "sex": "M",
+    "age": 35,
+    "chip_time": "9:28.26"
+  },
+  {
+    "place": 37,
+    "bib": 128,
+    "name": "JENNIFER FOSTER",
+    "sex": "F",
+    "age": 56,
+    "chip_time": "9:29.83"
+  },
+  {
+    "place": 38,
+    "bib": 7,
+    "name": "MICHELLE MANNING",
+    "sex": "F",
+    "age": 54,
+    "chip_time": "9:30"
+  },
+  {
+    "place": 39,
+    "bib": 12,
+    "name": "CORREY FOSSICK",
+    "sex": "M",
+    "age": 35,
+    "chip_time": "9:30.71"
+  },
+  {
+    "place": 40,
+    "bib": 90,
+    "name": "PERRY TIBERIO",
+    "sex": "M",
+    "age": 42,
+    "chip_time": "9:32.29"
+  },
+  {
+    "place": 41,
+    "bib": 25,
+    "name": "DAVID KONDIS",
+    "sex": "M",
+    "age": 67,
+    "chip_time": "9:33.77"
+  },
+  {
+    "place": 42,
+    "bib": 44,
+    "name": "KEVIN GUIDISH",
+    "sex": "M",
+    "age": 38,
+    "chip_time": "9:38.92"
+  },
+  {
+    "place": 43,
+    "bib": 145,
+    "name": "ROBERT SASSAK",
+    "sex": "M",
+    "age": 41,
+    "chip_time": "9:42.92"
+  },
+  {
+    "place": 44,
+    "bib": 17,
+    "name": "JOHN DENARD",
+    "sex": "M",
+    "age": 27,
+    "chip_time": "9:47.55"
+  },
+  {
+    "place": 45,
+    "bib": 68,
+    "name": "EMILY WISSNER",
+    "sex": "F",
+    "age": 17,
+    "chip_time": "9:51.32"
+  },
+  {
+    "place": 46,
+    "bib": 230,
+    "name": "ROBERT FENSTERER",
+    "sex": "M",
+    "age": 76,
+    "chip_time": "9:52.45"
+  },
+  {
+    "place": 47,
+    "bib": 36,
+    "name": "DOUGLAS PIKE",
+    "sex": "M",
+    "age": 65,
+    "chip_time": "9:56.21"
+  },
+  {
+    "place": 48,
+    "bib": 66,
+    "name": "NORAH MARCHIONDA",
+    "sex": "F",
+    "age": 18,
+    "chip_time": "9:56.54"
+  },
+  {
+    "place": 49,
+    "bib": 77,
+    "name": "HANNAH BARTON",
+    "sex": "F",
+    "age": 21,
+    "chip_time": "9:57.31"
+  },
+  {
+    "place": 50,
+    "bib": 32,
+    "name": "CRAIG MCDANIEL",
+    "sex": "M",
+    "age": 41,
+    "chip_time": "10:00.36"
+  },
+  {
+    "place": 51,
+    "bib": 38,
+    "name": "JESSICA SPAGNOL",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "10:00.61"
+  },
+  {
+    "place": 52,
+    "bib": 117,
+    "name": "MAGGIE CHARLEY",
+    "sex": "F",
+    "age": 72,
+    "chip_time": "10:12.12"
+  },
+  {
+    "place": 53,
+    "bib": 143,
+    "name": "CHRIS PRILLA",
+    "sex": "M",
+    "age": 40,
+    "chip_time": "10:12.64"
+  },
+  {
+    "place": 54,
+    "bib": 78,
+    "name": "BERNADETTE DOURLAIN",
+    "sex": "F",
+    "age": 57,
+    "chip_time": "10:21.01"
+  },
+  {
+    "place": 55,
+    "bib": 46,
+    "name": "GEOFFREY KASSE",
+    "sex": "M",
+    "age": 49,
+    "chip_time": "10:21.42"
+  },
+  {
+    "place": 56,
+    "bib": 26,
+    "name": "AMANDA KUNKLE",
+    "sex": "F",
+    "age": 48,
+    "chip_time": "10:28.34"
+  },
+  {
+    "place": 57,
+    "bib": 59,
+    "name": "FRANCESCA SCHURMAN",
+    "sex": "F",
+    "age": 48,
+    "chip_time": "10:29.06"
+  },
+  {
+    "place": 58,
+    "bib": 199,
+    "name": "EMILY HAAS",
+    "sex": "F",
+    "age": 41,
+    "chip_time": "10:29.09"
+  },
+  {
+    "place": 59,
+    "bib": 213,
+    "name": "STEVE SCHOHN",
+    "sex": "M",
+    "age": 42,
+    "chip_time": "10:33.47"
+  },
+  {
+    "place": 60,
+    "bib": 118,
+    "name": "JOHN CHARLEY",
+    "sex": "M",
+    "age": 74,
+    "chip_time": "10:37.65"
+  },
+  {
+    "place": 61,
+    "bib": 173,
+    "name": "JOHN SEGEBART",
+    "sex": "M",
+    "age": 25,
+    "chip_time": "10:39.31"
+  },
+  {
+    "place": 62,
+    "bib": 159,
+    "name": "TOMMY BRASSELL",
+    "sex": "M",
+    "age": 38,
+    "chip_time": "10:41.15"
+  },
+  {
+    "place": 63,
+    "bib": 40,
+    "name": "KEVIN ZENKEVICH",
+    "sex": "M",
+    "age": 61,
+    "chip_time": "10:45.95"
+  },
+  {
+    "place": 64,
+    "bib": 101,
+    "name": "ALIXANNE MCGOWAN",
+    "sex": "F",
+    "age": 36,
+    "chip_time": "10:47.8"
+  },
+  {
+    "place": 65,
+    "bib": 8,
+    "name": "MARK NADER",
+    "sex": "M",
+    "age": 52,
+    "chip_time": "10:48.06"
+  },
+  {
+    "place": 66,
+    "bib": 6,
+    "name": "GREGORY LEWIS",
+    "sex": "M",
+    "age": 47,
+    "chip_time": "10:50.13"
+  },
+  {
+    "place": 67,
+    "bib": 163,
+    "name": "ROSS MORGAN",
+    "sex": "M",
+    "age": 36,
+    "chip_time": "10:56.01"
+  },
+  {
+    "place": 68,
+    "bib": 23,
+    "name": "DANIEL KIPPELEN",
+    "sex": "M",
+    "age": 67,
+    "chip_time": "11:03.76"
+  },
+  {
+    "place": 69,
+    "bib": 149,
+    "name": "MIRA FRANUS",
+    "sex": "F",
+    "age": 41,
+    "chip_time": "11:10.84"
+  },
+  {
+    "place": 70,
+    "bib": 219,
+    "name": "GEOFFREY KURLAND",
+    "sex": "M",
+    "age": 79,
+    "chip_time": "11:11.64"
+  },
+  {
+    "place": 71,
+    "bib": 191,
+    "name": "JOHN WOODS",
+    "sex": "M",
+    "age": 66,
+    "chip_time": "11:16.09"
+  },
+  {
+    "place": 72,
+    "bib": 161,
+    "name": "CHARNAE DIXON",
+    "sex": "F",
+    "age": 30,
+    "chip_time": "11:17.17"
+  },
+  {
+    "place": 73,
+    "bib": 28,
+    "name": "ALLIE LUKOWSKI",
+    "sex": "F",
+    "age": 23,
+    "chip_time": "11:28.8"
+  },
+  {
+    "place": 74,
+    "bib": 63,
+    "name": "WILLA HERMAN",
+    "sex": "F",
+    "age": 17,
+    "chip_time": "11:36.89"
+  },
+  {
+    "place": 75,
+    "bib": 196,
+    "name": "MIKE BOLLA",
+    "sex": "M",
+    "age": 33,
+    "chip_time": "11:40.15"
+  },
+  {
+    "place": 76,
+    "bib": 212,
+    "name": "ED HURLEY",
+    "sex": "M",
+    "age": 38,
+    "chip_time": "11:48.17"
+  },
+  {
+    "place": 77,
+    "bib": 83,
+    "name": "RJ PRATT",
+    "sex": "M",
+    "age": 99,
+    "chip_time": "11:49.96"
+  },
+  {
+    "place": 78,
+    "bib": 87,
+    "name": "MICHAEL ALICEA",
+    "sex": "M",
+    "age": 43,
+    "chip_time": "11:50.1"
+  },
+  {
+    "place": 79,
+    "bib": 82,
+    "name": "JASON KERIN",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "11:52.22"
+  },
+  {
+    "place": 80,
+    "bib": 93,
+    "name": "ANTHONY WEINMANN",
+    "sex": "M",
+    "age": 61,
+    "chip_time": "11:52.81"
+  },
+  {
+    "place": 81,
+    "bib": 132,
+    "name": "JASON HARLAND",
+    "sex": "M",
+    "age": 49,
+    "chip_time": "12:00.82"
+  },
+  {
+    "place": 82,
+    "bib": 227,
+    "name": "JORDAN WOYT",
+    "sex": "F",
+    "age": 30,
+    "chip_time": "12:01.67"
+  },
+  {
+    "place": 83,
+    "bib": 58,
+    "name": "TIFFANI PARKS",
+    "sex": "F",
+    "age": 41,
+    "chip_time": "12:01.83"
+  },
+  {
+    "place": 84,
+    "bib": 31,
+    "name": "HEATHER MCDANIEL",
+    "sex": "F",
+    "age": 41,
+    "chip_time": "12:05.03"
+  },
+  {
+    "place": 85,
+    "bib": 15,
+    "name": "JENNIFER BRODT",
+    "sex": "F",
+    "age": 60,
+    "chip_time": "12:05.77"
+  },
+  {
+    "place": 86,
+    "bib": 14,
+    "name": "KELLY BEISTEL",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "12:07.76"
+  },
+  {
+    "place": 87,
+    "bib": 139,
+    "name": "SPENCER PATTERSON",
+    "sex": "M",
+    "age": 30,
+    "chip_time": "12:10.4"
+  },
+  {
+    "place": 88,
+    "bib": 156,
+    "name": "DERECK MCWILLIAMS",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "12:12.48"
+  },
+  {
+    "place": 89,
+    "bib": 110,
+    "name": "JONATHAN FODI",
+    "sex": "M",
+    "age": 43,
+    "chip_time": "12:14.51"
+  },
+  {
+    "place": 90,
+    "bib": 69,
+    "name": "EVAN DELSARDO",
+    "sex": "M",
+    "age": 32,
+    "chip_time": "12:32.49"
+  },
+  {
+    "place": 91,
+    "bib": 80,
+    "name": "JORDYN BARNOSKI",
+    "sex": "F",
+    "age": 28,
+    "chip_time": "12:34.13"
+  },
+  {
+    "place": 92,
+    "bib": 62,
+    "name": "CLARA HERMAN",
+    "sex": "F",
+    "age": 17,
+    "chip_time": "12:40.75"
+  },
+  {
+    "place": 93,
+    "bib": 168,
+    "name": "BRITTANY DONALIES",
+    "sex": "F",
+    "age": 38,
+    "chip_time": "12:42.19"
+  },
+  {
+    "place": 94,
+    "bib": 24,
+    "name": "DANIEL KOHLER",
+    "sex": "M",
+    "age": 41,
+    "chip_time": "12:55.82"
+  },
+  {
+    "place": 95,
+    "bib": 35,
+    "name": "BILL MOSCHAK",
+    "sex": "M",
+    "age": 70,
+    "chip_time": "13:14.78"
+  },
+  {
+    "place": 96,
+    "bib": 41,
+    "name": "RACHEL ZENKEVICH",
+    "sex": "F",
+    "age": 29,
+    "chip_time": "13:20.12"
+  },
+  {
+    "place": 97,
+    "bib": 226,
+    "name": "LAUREN STAWOVY",
+    "sex": "F",
+    "age": 34,
+    "chip_time": "13:21.47"
+  },
+  {
+    "place": 98,
+    "bib": 206,
+    "name": "JOSEPH SHIELDS",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "13:21.51"
+  },
+  {
+    "place": 99,
+    "bib": 115,
+    "name": "MARK BRUSH",
+    "sex": "M",
+    "age": 62,
+    "chip_time": "13:26.96"
+  },
+  {
+    "place": 100,
+    "bib": 231,
+    "name": "KRISTEN KASSE",
+    "sex": "F",
+    "age": 44,
+    "chip_time": "13:28.05"
+  },
+  {
+    "place": 101,
+    "bib": 33,
+    "name": "DIANNE MCMASTER",
+    "sex": "F",
+    "age": 62,
+    "chip_time": "13:28.92"
+  },
+  {
+    "place": 102,
+    "bib": 113,
+    "name": "GREG SUHER",
+    "sex": "M",
+    "age": 55,
+    "chip_time": "13:28.92"
+  },
+  {
+    "place": 103,
+    "bib": 20,
+    "name": "PEGGY HUGHES",
+    "sex": "F",
+    "age": 72,
+    "chip_time": "13:33.12"
+  },
+  {
+    "place": 104,
+    "bib": 167,
+    "name": "MEGAN CLIFTON",
+    "sex": "F",
+    "age": 39,
+    "chip_time": "13:43.34"
+  },
+  {
+    "place": 105,
+    "bib": 225,
+    "name": "GABE TILLMAN",
+    "sex": "M",
+    "age": 36,
+    "chip_time": "13:55.16"
+  },
+  {
+    "place": 106,
+    "bib": 106,
+    "name": "SHANA BIELICH",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "13:59.14"
+  },
+  {
+    "place": 107,
+    "bib": 37,
+    "name": "KELLY SCHRODER",
+    "sex": "F",
+    "age": 28,
+    "chip_time": "14:01.07"
+  },
+  {
+    "place": 108,
+    "bib": 223,
+    "name": "ABDELLATIF LASFAR",
+    "sex": "M",
+    "age": 55,
+    "chip_time": "14:03.51"
+  },
+  {
+    "place": 109,
+    "bib": 204,
+    "name": "MATT HETRICK",
+    "sex": "M",
+    "age": 34,
+    "chip_time": "14:04.19"
+  },
+  {
+    "place": 110,
+    "bib": 178,
+    "name": "TAMMY YOUNG",
+    "sex": "F",
+    "age": 53,
+    "chip_time": "14:04.75"
+  },
+  {
+    "place": 111,
+    "bib": 123,
+    "name": "NICHOLE DAUSEY",
+    "sex": "F",
+    "age": 52,
+    "chip_time": "14:08.43"
+  },
+  {
+    "place": 112,
+    "bib": 138,
+    "name": "JENNIFER PATTERSON",
+    "sex": "F",
+    "age": 68,
+    "chip_time": "14:12.59"
+  },
+  {
+    "place": 113,
+    "bib": 152,
+    "name": "TIMOTHY GOETZE",
+    "sex": "M",
+    "age": 47,
+    "chip_time": "14:19.23"
+  },
+  {
+    "place": 114,
+    "bib": 157,
+    "name": "TINA WALKER",
+    "sex": "F",
+    "age": 62,
+    "chip_time": "14:27.26"
+  },
+  {
+    "place": 115,
+    "bib": 129,
+    "name": "MONIQUE FOURNIER",
+    "sex": "F",
+    "age": 53,
+    "chip_time": "14:46.71"
+  },
+  {
+    "place": 116,
+    "bib": 111,
+    "name": "ABBY GLASS",
+    "sex": "F",
+    "age": 23,
+    "chip_time": "14:47.37"
+  },
+  {
+    "place": 117,
+    "bib": 67,
+    "name": "KIM SCHULTISE",
+    "sex": "F",
+    "age": 48,
+    "chip_time": "15:05.06"
+  },
+  {
+    "place": 118,
+    "bib": 203,
+    "name": "ANDRE GREEN",
+    "sex": "M",
+    "age": 33,
+    "chip_time": "15:07.83"
+  },
+  {
+    "place": 119,
+    "bib": 147,
+    "name": "JUSTIN WEHRING",
+    "sex": "M",
+    "age": 42,
+    "chip_time": "15:15.1"
+  },
+  {
+    "place": 120,
+    "bib": 99,
+    "name": "BRIAN BAKER",
+    "sex": "M",
+    "age": 49,
+    "chip_time": "15:20.72"
+  },
+  {
+    "place": 121,
+    "bib": 122,
+    "name": "MARYANN DALESSANDRO",
+    "sex": "F",
+    "age": 60,
+    "chip_time": "15:35.63"
+  },
+  {
+    "place": 122,
+    "bib": 119,
+    "name": "JACLYN CICHOWICZ",
+    "sex": "F",
+    "age": 41,
+    "chip_time": "15:47.64"
+  },
+  {
+    "place": 123,
+    "bib": 171,
+    "name": "JUSTICE HICKMOTT",
+    "sex": "M",
+    "age": 27,
+    "chip_time": "15:53.32"
+  },
+  {
+    "place": 124,
+    "bib": 228,
+    "name": "MEGHAN KIEDERER",
+    "sex": "F",
+    "age": 28,
+    "chip_time": "15:53.35"
+  },
+  {
+    "place": 125,
+    "bib": 162,
+    "name": "KWEILYNN GREENE",
+    "sex": "F",
+    "age": 43,
+    "chip_time": "15:59.81"
+  },
+  {
+    "place": 126,
+    "bib": 195,
+    "name": "WESLEY ATTWOOD",
+    "sex": "M",
+    "age": 34,
+    "chip_time": "16:02.85"
+  },
+  {
+    "place": 127,
+    "bib": 121,
+    "name": "ED COOK",
+    "sex": "M",
+    "age": 57,
+    "chip_time": "16:06.28"
+  },
+  {
+    "place": 128,
+    "bib": 112,
+    "name": "LAUREN MCDEVITT",
+    "sex": "F",
+    "age": 30,
+    "chip_time": "16:07.59"
+  },
+  {
+    "place": 129,
+    "bib": 189,
+    "name": "JASON YEE",
+    "sex": "M",
+    "age": 53,
+    "chip_time": "16:14.86"
+  },
+  {
+    "place": 130,
+    "bib": 135,
+    "name": "AHYANNA MORTON",
+    "sex": "F",
+    "age": 58,
+    "chip_time": "16:15.95"
+  },
+  {
+    "place": 131,
+    "bib": 43,
+    "name": "ALLISON GUIDISH",
+    "sex": "F",
+    "age": 38,
+    "chip_time": "16:17.34"
+  },
+  {
+    "place": 132,
+    "bib": 42,
+    "name": "KATHY ARENA",
+    "sex": "F",
+    "age": 66,
+    "chip_time": "16:25.38"
+  },
+  {
+    "place": 133,
+    "bib": 220,
+    "name": "MICHAEL KORNS",
+    "sex": "M",
+    "age": 44,
+    "chip_time": "16:39.01"
+  },
+  {
+    "place": 134,
+    "bib": 209,
+    "name": "TERRY CHAMPINE",
+    "sex": "M",
+    "age": 33,
+    "chip_time": "17:14.57"
+  },
+  {
+    "place": 135,
+    "bib": 52,
+    "name": "SAM TAYLOR",
+    "sex": "M",
+    "age": 19,
+    "chip_time": "17:17.51"
+  },
+  {
+    "place": 136,
+    "bib": 88,
+    "name": "BOB BINDAS",
+    "sex": "M",
+    "age": 62,
+    "chip_time": "17:24.13"
+  },
+  {
+    "place": 137,
+    "bib": 120,
+    "name": "BRIAN COBAUGH",
+    "sex": "M",
+    "age": 55,
+    "chip_time": "17:39.59"
+  },
+  {
+    "place": 138,
+    "bib": 211,
+    "name": "JEFFREY GREEN",
+    "sex": "M",
+    "age": 46,
+    "chip_time": "17:47.73"
+  },
+  {
+    "place": 139,
+    "bib": 216,
+    "name": "LUKE ZILICH",
+    "sex": "M",
+    "age": 18,
+    "chip_time": "17:53.99"
+  },
+  {
+    "place": 140,
+    "bib": 214,
+    "name": "BLAKE TOKI",
+    "sex": "M",
+    "age": 43,
+    "chip_time": "17:55.17"
+  },
+  {
+    "place": 141,
+    "bib": 164,
+    "name": "DAMETRIA REED",
+    "sex": "F",
+    "age": 44,
+    "chip_time": "18:28.3"
+  },
+  {
+    "place": 142,
+    "bib": 210,
+    "name": "RODNEY GENETIN",
+    "sex": "M",
+    "age": 46,
+    "chip_time": "18:38.14"
+  },
+  {
+    "place": 143,
+    "bib": 98,
+    "name": "CHRISTA B",
+    "sex": "F",
+    "age": 39,
+    "chip_time": "18:38.48"
+  },
+  {
+    "place": 144,
+    "bib": 207,
+    "name": "AARON SIMMONS",
+    "sex": "M",
+    "age": 49,
+    "chip_time": "18:40.65"
+  },
+  {
+    "place": 145,
+    "bib": 200,
+    "name": "DERRICK JUBECK",
+    "sex": "M",
+    "age": 40,
+    "chip_time": "18:45.41"
+  },
+  {
+    "place": 146,
+    "bib": 146,
+    "name": "LISA SAVINDA",
+    "sex": "F",
+    "age": 60,
+    "chip_time": "18:49.23"
+  },
+  {
+    "place": 147,
+    "bib": 229,
+    "name": "SYNGIN STOCKDALE",
+    "sex": "M",
+    "age": 31,
+    "chip_time": "19:11.11"
+  },
+  {
+    "place": 148,
+    "bib": 155,
+    "name": "MELINDA MCGONIGAL",
+    "sex": "F",
+    "age": 53,
+    "chip_time": "19:52.93"
+  },
+  {
+    "place": 149,
+    "bib": 61,
+    "name": "KELLY HERMAN",
+    "sex": "F",
+    "age": 44,
+    "chip_time": "20:20.72"
+  },
+  {
+    "place": 150,
+    "bib": 133,
+    "name": "ANGEL MARTEN",
+    "sex": "F",
+    "age": 60,
+    "chip_time": "20:38.88"
+  },
+  {
+    "place": 151,
+    "bib": 148,
+    "name": "LANA BERCK",
+    "sex": "F",
+    "age": 54,
+    "chip_time": "20:40.14"
+  },
+  {
+    "place": 152,
+    "bib": 172,
+    "name": "ELAINA MINKEL",
+    "sex": "F",
+    "age": 35,
+    "chip_time": "20:53.21"
+  },
+  {
+    "place": 153,
+    "bib": 71,
+    "name": "KRISTEN MORTIMER",
+    "sex": "F",
+    "age": 32,
+    "chip_time": "21:08.79"
+  },
+  {
+    "place": 154,
+    "bib": 150,
+    "name": "CODY GARLETTS",
+    "sex": "M",
+    "age": 36,
+    "chip_time": "21:22.88"
+  },
+  {
+    "place": 155,
+    "bib": 166,
+    "name": "DEIRDRE SPENCER",
+    "sex": "F",
+    "age": 66,
+    "chip_time": "22:27.05"
+  },
+  {
+    "place": 156,
+    "bib": 192,
+    "name": "COLLEEN WOODS",
+    "sex": "F",
+    "age": 55,
+    "chip_time": "22:48.5"
+  },
+  {
+    "place": 157,
+    "bib": 54,
+    "name": "SHANNON CARROLL",
+    "sex": "F",
+    "age": 31,
+    "chip_time": "22:49.53"
+  },
+  {
+    "place": 158,
+    "bib": 202,
+    "name": "JAY MONAHAN",
+    "sex": "M",
+    "age": 52,
+    "chip_time": "22:54.47"
+  },
+  {
+    "place": 159,
+    "bib": 144,
+    "name": "JOSEPH ROSS",
+    "sex": "M",
+    "age": 41,
+    "chip_time": "22:55.89"
+  },
+  {
+    "place": 160,
+    "bib": 130,
+    "name": "KATIE GIELATA",
+    "sex": "F",
+    "age": 39,
+    "chip_time": "23:05.87"
+  },
+  {
+    "place": 161,
+    "bib": 205,
+    "name": "CHRIS LIOI",
+    "sex": "M",
+    "age": 36,
+    "chip_time": "23:32.9"
+  },
+  {
+    "place": 162,
+    "bib": 158,
+    "name": "BRITTANY BOWE",
+    "sex": "F",
+    "age": 39,
+    "chip_time": "23:33.68"
+  },
+  {
+    "place": 163,
+    "bib": 217,
+    "name": "LOCKE ZILICH",
+    "sex": "M",
+    "age": 18,
+    "chip_time": "24:12.82"
+  },
+  {
+    "place": 164,
+    "bib": 182,
+    "name": "MARY MACERELLI",
+    "sex": "F",
+    "age": 41,
+    "chip_time": "24:30.92"
+  },
+  {
+    "place": 165,
+    "bib": 183,
+    "name": "I. MACERELLI",
+    "sex": "M",
+    "age": 4,
+    "chip_time": "24:39.82"
+  },
+  {
+    "place": 166,
+    "bib": 180,
+    "name": "TANYA FINNERAN",
+    "sex": "F",
+    "age": 48,
+    "chip_time": "24:40.1"
+  },
+  {
+    "place": 167,
+    "bib": 193,
+    "name": "LISA HABEDANK",
+    "sex": "F",
+    "age": 56,
+    "chip_time": "24:42.31"
+  },
+  {
+    "place": 168,
+    "bib": 154,
+    "name": "ABIGAIL KAZEE",
+    "sex": "F",
+    "age": 30,
+    "chip_time": "24:56.71"
+  },
+  {
+    "place": 169,
+    "bib": 215,
+    "name": "PHILIP BOGGS",
+    "sex": "M",
+    "age": 40,
+    "chip_time": "25:19.43"
+  },
+  {
+    "place": 170,
+    "bib": 188,
+    "name": "SHANNON TIERNAN",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "25:25.35"
+  },
+  {
+    "place": 171,
+    "bib": 187,
+    "name": "ANDREW STEIMER",
+    "sex": "M",
+    "age": 44,
+    "chip_time": "25:30.34"
+  },
+  {
+    "place": 172,
+    "bib": 186,
+    "name": "MICHELLE STEIMER",
+    "sex": "F",
+    "age": 43,
+    "chip_time": "25:49.81"
+  },
+  {
+    "place": 173,
+    "bib": 184,
+    "name": "JARED MACERELLI",
+    "sex": "M",
+    "age": 42,
+    "chip_time": "26:26.25"
+  },
+  {
+    "place": 174,
+    "bib": 48,
+    "name": "SARAH GILBERT",
+    "sex": "F",
+    "age": 41,
+    "chip_time": "28:11.62"
+  },
+  {
+    "place": 175,
+    "bib": 72,
+    "name": "ELIZABETH ROBOSKY",
+    "sex": "F",
+    "age": 39,
+    "chip_time": "29:12.12"
+  },
+  {
+    "place": 176,
+    "bib": 50,
+    "name": "JANE TAYLOR",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "29:20.01"
+  },
+  {
+    "place": 177,
+    "bib": 60,
+    "name": "KIMBERLY ALAND",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "29:50.28"
+  },
+  {
+    "place": 178,
+    "bib": 55,
+    "name": "MICHELE SMICHNICK",
+    "sex": "F",
+    "age": 56,
+    "chip_time": "30:09.29"
+  },
+  {
+    "place": 179,
+    "bib": 91,
+    "name": "SHEILA TIBERIO",
+    "sex": "F",
+    "age": 76,
+    "chip_time": "33:18.8"
+  },
+  {
+    "place": 180,
+    "bib": 94,
+    "name": "EILEEN WEINMANN",
+    "sex": "F",
+    "age": 62,
+    "chip_time": "33:24.28"
+  }
+]

@@ -1,0 +1,500 @@
+{"date": "2026-3-31", "race-name": "FFA Milwaukee 2026", "category": "Power Hour", "race-points": 50}
+
+[
+  {
+    "place": 1,
+    "bib": 12,
+    "name": "Thomas Baker",
+    "sex": "M",
+    "age": 29,
+    "chip_time": "51:44"
+  },
+  {
+    "place": 2,
+    "bib": 16,
+    "name": "Holly Kruchoski",
+    "sex": "F",
+    "age": 44,
+    "chip_time": "52:59"
+  },
+  {
+    "place": 3,
+    "bib": 1,
+    "name": "Greg Smith",
+    "sex": "M",
+    "age": 41,
+    "chip_time": "55:58"
+  },
+  {
+    "place": 4,
+    "bib": 2,
+    "name": "Sheryl Leonard-Schneck",
+    "sex": "F",
+    "age": 61,
+    "chip_time": "53:28"
+  },
+  {
+    "place": 5,
+    "bib": 72,
+    "name": "Dylan Shaffer",
+    "sex": "M",
+    "age": 34,
+    "chip_time": "45:29"
+  },
+  {
+    "place": 6,
+    "bib": 3,
+    "name": "Josh Jackett",
+    "sex": "M",
+    "age": 46,
+    "chip_time": "47:41"
+  },
+  {
+    "place": 7,
+    "bib": 13,
+    "name": "Morgan Baker",
+    "sex": "F",
+    "age": 33,
+    "chip_time": "48:58"
+  },
+  {
+    "place": 8,
+    "bib": 64,
+    "name": "Pam Connolly",
+    "sex": "F",
+    "age": 55,
+    "chip_time": "53:36"
+  },
+  {
+    "place": 9,
+    "bib": 17,
+    "name": "Jess Kruchoski",
+    "sex": "M",
+    "age": 54,
+    "chip_time": "55:04"
+  },
+  {
+    "place": 10,
+    "bib": 39,
+    "name": "Hal Carlson",
+    "sex": "M",
+    "age": 73,
+    "chip_time": "57:05"
+  },
+  {
+    "place": 11,
+    "bib": 25,
+    "name": "Nic Fugate",
+    "sex": "M",
+    "age": 41,
+    "chip_time": "45:33"
+  },
+  {
+    "place": 12,
+    "bib": 65,
+    "name": "Jason Simon",
+    "sex": "M",
+    "age": 44,
+    "chip_time": "46:27"
+  },
+  {
+    "place": 13,
+    "bib": 15,
+    "name": "Andy Hanson",
+    "sex": "M",
+    "age": 54,
+    "chip_time": "52:23"
+  },
+  {
+    "place": 14,
+    "bib": 8,
+    "name": "Michael Mueller",
+    "sex": "M",
+    "age": 26,
+    "chip_time": "59:06"
+  },
+  {
+    "place": 15,
+    "bib": 6,
+    "name": "Phillip Roemaat",
+    "sex": "M",
+    "age": 43,
+    "chip_time": "59:27"
+  },
+  {
+    "place": 16,
+    "bib": 4,
+    "name": "Matthew Meuleners",
+    "sex": "M",
+    "age": 44,
+    "chip_time": "47:07"
+  },
+  {
+    "place": 17,
+    "bib": 59,
+    "name": "Kristie Kurtenbach",
+    "sex": "F",
+    "age": 65,
+    "chip_time": "48:37"
+  },
+  {
+    "place": 18,
+    "bib": 51,
+    "name": "Dan Sarandos",
+    "sex": "M",
+    "age": 38,
+    "chip_time": "48:53"
+  },
+  {
+    "place": 19,
+    "bib": 9,
+    "name": "Hayden Searcy",
+    "sex": "M",
+    "age": 32,
+    "chip_time": "51:36"
+  },
+  {
+    "place": 20,
+    "bib": 69,
+    "name": "Julie Bruno",
+    "sex": "F",
+    "age": 46,
+    "chip_time": "52:09"
+  },
+  {
+    "place": 21,
+    "bib": 5,
+    "name": "Tom McGee",
+    "sex": "M",
+    "age": 69,
+    "chip_time": "55:34"
+  },
+  {
+    "place": 22,
+    "bib": 61,
+    "name": "Ken Olszewski",
+    "sex": "M",
+    "age": 66,
+    "chip_time": "58:07"
+  },
+  {
+    "place": 23,
+    "bib": 62,
+    "name": "Zivadin Zivkovic",
+    "sex": "M",
+    "age": 60,
+    "chip_time": "1:06:59"
+  },
+  {
+    "place": 24,
+    "bib": 34,
+    "name": "Elizabeth Hochstein",
+    "sex": "F",
+    "age": 38,
+    "chip_time": "44:22"
+  },
+  {
+    "place": 25,
+    "bib": 1141,
+    "name": "Nic Sarandos",
+    "sex": "M",
+    "age": 24,
+    "chip_time": "48:49"
+  },
+  {
+    "place": 26,
+    "bib": 53,
+    "name": "James Shibley",
+    "sex": "M",
+    "age": 70,
+    "chip_time": "50:10"
+  },
+  {
+    "place": 27,
+    "bib": 18,
+    "name": "Leah Ruesink",
+    "sex": "F",
+    "age": 43,
+    "chip_time": "50:51"
+  },
+  {
+    "place": 28,
+    "bib": 21,
+    "name": "Sandi Greenway",
+    "sex": "F",
+    "age": 60,
+    "chip_time": "52:03"
+  },
+  {
+    "place": 29,
+    "bib": 7,
+    "name": "Damien Lehrer",
+    "sex": "M",
+    "age": 63,
+    "chip_time": "53:32"
+  },
+  {
+    "place": 30,
+    "bib": 49,
+    "name": "Jenny Kislow",
+    "sex": "F",
+    "age": 48,
+    "chip_time": "54:43"
+  },
+  {
+    "place": 31,
+    "bib": 14,
+    "name": "Steven Curry",
+    "sex": "M",
+    "age": 49,
+    "chip_time": "58:41"
+  },
+  {
+    "place": 32,
+    "bib": 29,
+    "name": "Ingrid Barber",
+    "sex": "F",
+    "age": 41,
+    "chip_time": "1:02:45"
+  },
+  {
+    "place": 33,
+    "bib": 10,
+    "name": "Chris Dienberg",
+    "sex": "M",
+    "age": 56,
+    "chip_time": "41:08"
+  },
+  {
+    "place": 34,
+    "bib": 55,
+    "name": "Kathryn Berezowitz",
+    "sex": "F",
+    "age": 66,
+    "chip_time": "42:14"
+  },
+  {
+    "place": 35,
+    "bib": 41,
+    "name": "Cheryl Poblocki",
+    "sex": "F",
+    "age": 48,
+    "chip_time": "42:27"
+  },
+  {
+    "place": 36,
+    "bib": 40,
+    "name": "Tom Baltz",
+    "sex": "M",
+    "age": 55,
+    "chip_time": "46:14"
+  },
+  {
+    "place": 37,
+    "bib": 68,
+    "name": "Jenny Murphy",
+    "sex": "F",
+    "age": 55,
+    "chip_time": "48:49"
+  },
+  {
+    "place": 38,
+    "bib": 30,
+    "name": "Rebecca Sullivan",
+    "sex": "F",
+    "age": 50,
+    "chip_time": "49:36"
+  },
+  {
+    "place": 39,
+    "bib": 67,
+    "name": "Jen Kehoe",
+    "sex": "F",
+    "age": 56,
+    "chip_time": "51:06"
+  },
+  {
+    "place": 40,
+    "bib": 63,
+    "name": "Melaine Gerloski",
+    "sex": "F",
+    "age": 62,
+    "chip_time": "52:52"
+  },
+  {
+    "place": 41,
+    "bib": 71,
+    "name": "UmaShanker Sampath",
+    "sex": "M",
+    "age": 63,
+    "chip_time": "55:53"
+  },
+  {
+    "place": 42,
+    "bib": 70,
+    "name": "Todd Hauser",
+    "sex": "M",
+    "age": 49,
+    "chip_time": "56:41"
+  },
+  {
+    "place": 43,
+    "bib": 50,
+    "name": "Rachel Sarandos",
+    "sex": "F",
+    "age": 39,
+    "chip_time": "57:02"
+  },
+  {
+    "place": 44,
+    "bib": 22,
+    "name": "Michele Kenner",
+    "sex": "F",
+    "age": 64,
+    "chip_time": "39:07"
+  },
+  {
+    "place": 45,
+    "bib": 20,
+    "name": "Ann Olp",
+    "sex": "F",
+    "age": 57,
+    "chip_time": "46:17"
+  },
+  {
+    "place": 46,
+    "bib": 56,
+    "name": "Jasper Dyas",
+    "sex": "M",
+    "age": 26,
+    "chip_time": "52:09"
+  },
+  {
+    "place": 47,
+    "bib": 35,
+    "name": "Sandra De La Cruz Cotera",
+    "sex": "F",
+    "age": null,
+    "chip_time": "53:13"
+  },
+  {
+    "place": 48,
+    "bib": 48,
+    "name": "Connie Kempany",
+    "sex": "F",
+    "age": 47,
+    "chip_time": "54:59"
+  },
+  {
+    "place": 49,
+    "bib": 46,
+    "name": "Tracy Arndt",
+    "sex": "F",
+    "age": 52,
+    "chip_time": "56:14"
+  },
+  {
+    "place": 50,
+    "bib": 11,
+    "name": "Carolyn Meuleners",
+    "sex": "F",
+    "age": 44,
+    "chip_time": "26:46"
+  },
+  {
+    "place": 51,
+    "bib": 23,
+    "name": "Andrea Lewis",
+    "sex": "F",
+    "age": 33,
+    "chip_time": "31:51"
+  },
+  {
+    "place": 52,
+    "bib": 24,
+    "name": "Danielle Millard",
+    "sex": "F",
+    "age": 33,
+    "chip_time": "32:03"
+  },
+  {
+    "place": 53,
+    "bib": 33,
+    "name": "Liz Hawkins",
+    "sex": "F",
+    "age": 50,
+    "chip_time": "17:33"
+  },
+  {
+    "place": 54,
+    "bib": 37,
+    "name": "Cat Zyniecki",
+    "sex": "F",
+    "age": 56,
+    "chip_time": "18:56"
+  },
+  {
+    "place": 55,
+    "bib": 27,
+    "name": "Tracey Sturgal",
+    "sex": "F",
+    "age": 56,
+    "chip_time": "20:40"
+  },
+  {
+    "place": 56,
+    "bib": 28,
+    "name": "Toni Uhrich",
+    "sex": "F",
+    "age": 63,
+    "chip_time": "20:51"
+  },
+  {
+    "place": 57,
+    "bib": 60,
+    "name": "Christine Noelle",
+    "sex": "F",
+    "age": 36,
+    "chip_time": "21:49"
+  },
+  {
+    "place": 58,
+    "bib": 43,
+    "name": "Sally Woller",
+    "sex": "F",
+    "age": 46,
+    "chip_time": "29:58"
+  },
+  {
+    "place": 59,
+    "bib": 58,
+    "name": "Bill Keaton",
+    "sex": "M",
+    "age": 70,
+    "chip_time": "30:00"
+  },
+  {
+    "place": 60,
+    "bib": 42,
+    "name": "Velvetta Hargrove",
+    "sex": "F",
+    "age": 61,
+    "chip_time": "47:27"
+  },
+  {
+    "place": 61,
+    "bib": 44,
+    "name": "Riley Luedtke",
+    "sex": "M",
+    "age": 37,
+    "chip_time": "7:12"
+  },
+  {
+    "place": 62,
+    "bib": 45,
+    "name": "Mary Jo Schanen",
+    "sex": "F",
+    "age": 56,
+    "chip_time": "18:51"
+  }
+]

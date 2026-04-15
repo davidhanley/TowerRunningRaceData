@@ -1,0 +1,196 @@
+{"date": "2026-3-7", "race-name": "FFA OKC", "category": "Power Hour", "source": "Race Day Events", "race-points": 50}
+
+[
+  {
+    "place": 1,
+    "bib": 194,
+    "name": "Philip Watson",
+    "sex": "M",
+    "age": 43,
+    "chip_time": "1:08:29.16"
+  },
+  {
+    "place": 2,
+    "bib": 382,
+    "name": "Debbie Officer",
+    "sex": "F",
+    "age": 57,
+    "chip_time": "1:00:56.86"
+  },
+  {
+    "place": 3,
+    "bib": 404,
+    "name": "Scott Ostervik",
+    "sex": "M",
+    "age": 52,
+    "chip_time": "1:06:33.41"
+  },
+  {
+    "place": 4,
+    "bib": 378,
+    "name": "Stephanie Burdick",
+    "sex": "F",
+    "age": 41,
+    "chip_time": "1:07:41.5"
+  },
+  {
+    "place": 5,
+    "bib": 381,
+    "name": "Matthew Mitchell",
+    "sex": "M",
+    "age": 61,
+    "chip_time": "1:09:11.36"
+  },
+  {
+    "place": 6,
+    "bib": 403,
+    "name": "Tiffany Granone",
+    "sex": "F",
+    "age": 46,
+    "chip_time": "1:10:40.75"
+  },
+  {
+    "place": 7,
+    "bib": 428,
+    "name": "Blake Goucher",
+    "sex": "M",
+    "age": 14,
+    "chip_time": "1:11:23.09"
+  },
+  {
+    "place": 8,
+    "bib": 248,
+    "name": "Shelley Moore",
+    "sex": "F",
+    "age": 59,
+    "chip_time": "1:11:37.83"
+  },
+  {
+    "place": 9,
+    "bib": 379,
+    "name": "Duane Friesen",
+    "sex": "M",
+    "age": 64,
+    "chip_time": "54:40.75"
+  },
+  {
+    "place": 10,
+    "bib": 195,
+    "name": "Maggie Watson",
+    "sex": "F",
+    "age": 37,
+    "chip_time": "56:32.33"
+  },
+  {
+    "place": 11,
+    "bib": 113,
+    "name": "Wanda Ross",
+    "sex": "F",
+    "age": 62,
+    "chip_time": "1:04:52.74"
+  },
+  {
+    "place": 12,
+    "bib": 427,
+    "name": "Nathan Bailey",
+    "sex": "M",
+    "age": 24,
+    "chip_time": "1:05:14.09"
+  },
+  {
+    "place": 13,
+    "bib": 402,
+    "name": "Madeline Mahan",
+    "sex": "F",
+    "age": 37,
+    "chip_time": "1:05:19.95"
+  },
+  {
+    "place": 14,
+    "bib": 101,
+    "name": "Greg Gerardy Gerardy",
+    "sex": "M",
+    "age": 54,
+    "chip_time": "1:08:58.01"
+  },
+  {
+    "place": 15,
+    "bib": 384,
+    "name": "Jordan Self",
+    "sex": "F",
+    "age": 33,
+    "chip_time": "51:41.87"
+  },
+  {
+    "place": 16,
+    "bib": 281,
+    "name": "Laura Goucher",
+    "sex": "F",
+    "age": 42,
+    "chip_time": "1:00:09.13"
+  },
+  {
+    "place": 17,
+    "bib": 226,
+    "name": "Pamela Kunkel",
+    "sex": "F",
+    "age": 56,
+    "chip_time": "1:01:43.98"
+  },
+  {
+    "place": 18,
+    "bib": 274,
+    "name": "Ma'Rena Henson",
+    "sex": "F",
+    "age": 36,
+    "chip_time": "1:02:55.05"
+  },
+  {
+    "place": 19,
+    "bib": 273,
+    "name": "Mike Demoss",
+    "sex": "M",
+    "age": 73,
+    "chip_time": "29:29.97"
+  },
+  {
+    "place": 20,
+    "bib": 408,
+    "name": "Jack Bailey",
+    "sex": "M",
+    "age": 59,
+    "chip_time": "49:31.13"
+  },
+  {
+    "place": 21,
+    "bib": 102,
+    "name": "Geahvanta Allen",
+    "sex": "F",
+    "age": 26,
+    "chip_time": "52:33.41"
+  },
+  {
+    "place": 22,
+    "bib": 102,
+    "name": "Jon T Heath",
+    "sex": "M",
+    "age": 54,
+    "chip_time": "52:33.41"
+  },
+  {
+    "place": 23,
+    "bib": 383,
+    "name": "Marsha O'Loughlin",
+    "sex": "F",
+    "age": 81,
+    "chip_time": "54:44.14"
+  },
+  {
+    "place": 24,
+    "bib": 299,
+    "name": "Zander Wickstrom",
+    "sex": "M",
+    "age": 14,
+    "chip_time": "33:17.34"
+  }
+]
