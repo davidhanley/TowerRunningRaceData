@@ -1,0 +1,3380 @@
+{"date": "2026-2-22", "race-name": "2026 FFA LA", "source": "Ready, Set... Time!", "race-points": 50}
+
+[
+  {
+    "place": 1,
+    "bib": 652,
+    "name": "Alex Maligo",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "9:50.85"
+  },
+  {
+    "place": 2,
+    "bib": 85,
+    "name": "Sean Chung",
+    "sex": "M",
+    "age": 36,
+    "chip_time": "11:46.94"
+  },
+  {
+    "place": 3,
+    "bib": 66,
+    "name": "Michael Caviston",
+    "sex": "M",
+    "age": 64,
+    "chip_time": "12:02.18"
+  },
+  {
+    "place": 4,
+    "bib": 56,
+    "name": "Johnny Bussing",
+    "sex": "M",
+    "age": 32,
+    "chip_time": "12:20.57"
+  },
+  {
+    "place": 5,
+    "bib": 42,
+    "name": "Gage Biltoft",
+    "sex": "M",
+    "age": 34,
+    "chip_time": "12:27.45"
+  },
+  {
+    "place": 6,
+    "bib": 169,
+    "name": "Royce Grundy",
+    "sex": "M",
+    "age": 26,
+    "chip_time": "12:28.85"
+  },
+  {
+    "place": 7,
+    "bib": 677,
+    "name": "Madison Stamen",
+    "sex": "F",
+    "age": null,
+    "chip_time": "12:40.74"
+  },
+  {
+    "place": 8,
+    "bib": 480,
+    "name": "Caden Thure",
+    "sex": "M",
+    "age": 26,
+    "chip_time": "12:41.13"
+  },
+  {
+    "place": 9,
+    "bib": 232,
+    "name": "Mark Kneyse",
+    "sex": "M",
+    "age": 48,
+    "chip_time": "13:16.88"
+  },
+  {
+    "place": 10,
+    "bib": 210,
+    "name": "Nick Jimenez",
+    "sex": "M",
+    "age": 14,
+    "chip_time": "13:21.67"
+  },
+  {
+    "place": 11,
+    "bib": 101,
+    "name": "H. Davidson",
+    "sex": "M",
+    "age": 10,
+    "chip_time": "13:22.25"
+  },
+  {
+    "place": 12,
+    "bib": 230,
+    "name": "Howard Klein",
+    "sex": "M",
+    "age": 71,
+    "chip_time": "13:36.07"
+  },
+  {
+    "place": 13,
+    "bib": 24,
+    "name": "Lucas Annink",
+    "sex": "M",
+    "age": 26,
+    "chip_time": "13:48.38"
+  },
+  {
+    "place": 14,
+    "bib": 256,
+    "name": "Brianna Leckie",
+    "sex": "F",
+    "age": 25,
+    "chip_time": "13:55.15"
+  },
+  {
+    "place": 15,
+    "bib": 472,
+    "name": "Brandon Taylor",
+    "sex": "M",
+    "age": 43,
+    "chip_time": "13:55.39"
+  },
+  {
+    "place": 16,
+    "bib": 464,
+    "name": "John Spykerman",
+    "sex": "M",
+    "age": 61,
+    "chip_time": "14:02.25"
+  },
+  {
+    "place": 17,
+    "bib": 218,
+    "name": "Amjad Kamali",
+    "sex": "M",
+    "age": 31,
+    "chip_time": "14:08.05"
+  },
+  {
+    "place": 18,
+    "bib": 489,
+    "name": "Jayci Tsuhako",
+    "sex": "F",
+    "age": 25,
+    "chip_time": "14:09.96"
+  },
+  {
+    "place": 19,
+    "bib": 496,
+    "name": "Daniel Vela",
+    "sex": "M",
+    "age": 56,
+    "chip_time": "14:15.78"
+  },
+  {
+    "place": 20,
+    "bib": 328,
+    "name": "Liz Nagy",
+    "sex": "F",
+    "age": 40,
+    "chip_time": "14:16.98"
+  },
+  {
+    "place": 21,
+    "bib": 100,
+    "name": "Grant Davidson",
+    "sex": "M",
+    "age": 17,
+    "chip_time": "14:21.54"
+  },
+  {
+    "place": 22,
+    "bib": 583,
+    "name": "Michael Burbank",
+    "sex": "M",
+    "age": null,
+    "chip_time": "14:26.88"
+  },
+  {
+    "place": 23,
+    "bib": 347,
+    "name": "Erik Padilla",
+    "sex": "M",
+    "age": 28,
+    "chip_time": "14:32.6"
+  },
+  {
+    "place": 24,
+    "bib": 674,
+    "name": "Anthony Carley",
+    "sex": "M",
+    "age": null,
+    "chip_time": "14:32.61"
+  },
+  {
+    "place": 25,
+    "bib": 132,
+    "name": "Alex Fakhroo",
+    "sex": "M",
+    "age": 33,
+    "chip_time": "14:33.13"
+  },
+  {
+    "place": 26,
+    "bib": 342,
+    "name": "David Ono",
+    "sex": "M",
+    "age": 63,
+    "chip_time": "14:35.09"
+  },
+  {
+    "place": 27,
+    "bib": 79,
+    "name": "Kaden Chien",
+    "sex": "M",
+    "age": 15,
+    "chip_time": "14:37.61"
+  },
+  {
+    "place": 28,
+    "bib": 202,
+    "name": "Betsy Ishihara",
+    "sex": "F",
+    "age": 63,
+    "chip_time": "14:38.15"
+  },
+  {
+    "place": 29,
+    "bib": 405,
+    "name": "Jenny Rogers",
+    "sex": "F",
+    "age": 47,
+    "chip_time": "14:44.52"
+  },
+  {
+    "place": 30,
+    "bib": 317,
+    "name": "Amber Moore",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "14:44.8"
+  },
+  {
+    "place": 31,
+    "bib": 269,
+    "name": "Jeff Liu",
+    "sex": "M",
+    "age": 59,
+    "chip_time": "14:46.17"
+  },
+  {
+    "place": 32,
+    "bib": 270,
+    "name": "Ryan Liu",
+    "sex": "M",
+    "age": 15,
+    "chip_time": "14:46.27"
+  },
+  {
+    "place": 33,
+    "bib": 219,
+    "name": "Wendy Kao",
+    "sex": "F",
+    "age": 46,
+    "chip_time": "14:57.86"
+  },
+  {
+    "place": 34,
+    "bib": 549,
+    "name": "Carter Russell",
+    "sex": "M",
+    "age": 17,
+    "chip_time": "14:59.84"
+  },
+  {
+    "place": 35,
+    "bib": 415,
+    "name": "Brian Russell",
+    "sex": "M",
+    "age": 22,
+    "chip_time": "15:01.64"
+  },
+  {
+    "place": 36,
+    "bib": 122,
+    "name": "Tamara Edwards",
+    "sex": "F",
+    "age": 45,
+    "chip_time": "15:11.05"
+  },
+  {
+    "place": 37,
+    "bib": 526,
+    "name": "Lisa Zeigel",
+    "sex": "F",
+    "age": 67,
+    "chip_time": "15:21.98"
+  },
+  {
+    "place": 38,
+    "bib": 320,
+    "name": "Clover Moshir",
+    "sex": "M",
+    "age": 21,
+    "chip_time": "15:25.86"
+  },
+  {
+    "place": 39,
+    "bib": 58,
+    "name": "Tyler Callaway",
+    "sex": "M",
+    "age": 40,
+    "chip_time": "15:27.8"
+  },
+  {
+    "place": 40,
+    "bib": 509,
+    "name": "Robert Wieder",
+    "sex": "M",
+    "age": 67,
+    "chip_time": "15:28.05"
+  },
+  {
+    "place": 41,
+    "bib": 109,
+    "name": "Mackayla Dean",
+    "sex": "F",
+    "age": 27,
+    "chip_time": "15:30.04"
+  },
+  {
+    "place": 42,
+    "bib": 284,
+    "name": "David Magallanes",
+    "sex": "M",
+    "age": 60,
+    "chip_time": "15:32.28"
+  },
+  {
+    "place": 43,
+    "bib": 363,
+    "name": "Roberto Porras",
+    "sex": "M",
+    "age": 53,
+    "chip_time": "15:32.37"
+  },
+  {
+    "place": 44,
+    "bib": 96,
+    "name": "Matthew Dalton",
+    "sex": "M",
+    "age": 40,
+    "chip_time": "15:34.22"
+  },
+  {
+    "place": 45,
+    "bib": 250,
+    "name": "Trevor Lambert",
+    "sex": "M",
+    "age": 18,
+    "chip_time": "15:36.56"
+  },
+  {
+    "place": 46,
+    "bib": 52,
+    "name": "Hilary Brown",
+    "sex": "F",
+    "age": 37,
+    "chip_time": "15:41.46"
+  },
+  {
+    "place": 47,
+    "bib": 349,
+    "name": "Douglas Pais",
+    "sex": "M",
+    "age": 67,
+    "chip_time": "15:42.96"
+  },
+  {
+    "place": 48,
+    "bib": 280,
+    "name": "Johann Ly",
+    "sex": "M",
+    "age": 41,
+    "chip_time": "15:43.3"
+  },
+  {
+    "place": 49,
+    "bib": 551,
+    "name": "Phoebe Garcia",
+    "sex": "F",
+    "age": 35,
+    "chip_time": "15:44.37"
+  },
+  {
+    "place": 50,
+    "bib": 316,
+    "name": "Jeffrey Montminy",
+    "sex": "M",
+    "age": 47,
+    "chip_time": "15:45.36"
+  },
+  {
+    "place": 51,
+    "bib": 153,
+    "name": "Margaret Garvey",
+    "sex": "F",
+    "age": 58,
+    "chip_time": "15:49.91"
+  },
+  {
+    "place": 52,
+    "bib": 297,
+    "name": "Amanda Mazza",
+    "sex": "F",
+    "age": 44,
+    "chip_time": "15:50.05"
+  },
+  {
+    "place": 53,
+    "bib": 388,
+    "name": "Edgar Reyes",
+    "sex": "M",
+    "age": 38,
+    "chip_time": "15:53.39"
+  },
+  {
+    "place": 54,
+    "bib": 267,
+    "name": "Yao Lin",
+    "sex": "M",
+    "age": 43,
+    "chip_time": "16:01.66"
+  },
+  {
+    "place": 55,
+    "bib": 102,
+    "name": "M. Davidson",
+    "sex": "F",
+    "age": 8,
+    "chip_time": "16:05.45"
+  },
+  {
+    "place": 56,
+    "bib": 103,
+    "name": "B. Davis",
+    "sex": "M",
+    "age": 11,
+    "chip_time": "16:07.12"
+  },
+  {
+    "place": 57,
+    "bib": 188,
+    "name": "Minerva Hernandez",
+    "sex": "F",
+    "age": 51,
+    "chip_time": "16:08.43"
+  },
+  {
+    "place": 58,
+    "bib": 4,
+    "name": "Marco Chu",
+    "sex": "M",
+    "age": null,
+    "chip_time": "16:09.46"
+  },
+  {
+    "place": 59,
+    "bib": 488,
+    "name": "Margot Tsang",
+    "sex": "F",
+    "age": null,
+    "chip_time": "16:10.5"
+  },
+  {
+    "place": 60,
+    "bib": 443,
+    "name": "Kelley Sierra",
+    "sex": "F",
+    "age": 38,
+    "chip_time": "16:13.15"
+  },
+  {
+    "place": 61,
+    "bib": 104,
+    "name": "Hugh Davis",
+    "sex": "M",
+    "age": 43,
+    "chip_time": "16:15.45"
+  },
+  {
+    "place": 62,
+    "bib": 678,
+    "name": "Ty Stamen",
+    "sex": "M",
+    "age": null,
+    "chip_time": "16:17.37"
+  },
+  {
+    "place": 63,
+    "bib": 181,
+    "name": "Teresa Hau",
+    "sex": "F",
+    "age": 44,
+    "chip_time": "16:18.94"
+  },
+  {
+    "place": 64,
+    "bib": 379,
+    "name": "Bradley Rancourt",
+    "sex": "M",
+    "age": 38,
+    "chip_time": "16:25.72"
+  },
+  {
+    "place": 65,
+    "bib": 276,
+    "name": "Osvaldo Lopez",
+    "sex": "M",
+    "age": 69,
+    "chip_time": "16:28.36"
+  },
+  {
+    "place": 66,
+    "bib": 331,
+    "name": "Lloyd Nelmida",
+    "sex": "M",
+    "age": 38,
+    "chip_time": "16:30.76"
+  },
+  {
+    "place": 67,
+    "bib": 258,
+    "name": "Christopher Lee",
+    "sex": "M",
+    "age": 36,
+    "chip_time": "16:30.84"
+  },
+  {
+    "place": 68,
+    "bib": 303,
+    "name": "Jonas Mejia",
+    "sex": "M",
+    "age": 30,
+    "chip_time": "16:32.08"
+  },
+  {
+    "place": 69,
+    "bib": 345,
+    "name": "Kevin Ozebek",
+    "sex": "M",
+    "age": 41,
+    "chip_time": "16:35.14"
+  },
+  {
+    "place": 70,
+    "bib": 546,
+    "name": "Carlos Arellanes",
+    "sex": "M",
+    "age": 69,
+    "chip_time": "16:35.97"
+  },
+  {
+    "place": 71,
+    "bib": 97,
+    "name": "Alycia Darby",
+    "sex": "F",
+    "age": 23,
+    "chip_time": "16:36.79"
+  },
+  {
+    "place": 72,
+    "bib": 176,
+    "name": "Juan Carlos Hamasaki",
+    "sex": "M",
+    "age": 30,
+    "chip_time": "16:40.1"
+  },
+  {
+    "place": 73,
+    "bib": 525,
+    "name": "Rafael Zavala",
+    "sex": "M",
+    "age": 54,
+    "chip_time": "16:41.09"
+  },
+  {
+    "place": 74,
+    "bib": 506,
+    "name": "Sumner West",
+    "sex": "M",
+    "age": 13,
+    "chip_time": "16:44.78"
+  },
+  {
+    "place": 75,
+    "bib": 121,
+    "name": "Alyssa Eamranond",
+    "sex": "F",
+    "age": 23,
+    "chip_time": "16:54.33"
+  },
+  {
+    "place": 76,
+    "bib": 662,
+    "name": "Eka Agung",
+    "sex": "M",
+    "age": null,
+    "chip_time": "16:57.13"
+  },
+  {
+    "place": 77,
+    "bib": 562,
+    "name": "James Dean Harrison",
+    "sex": "M",
+    "age": 33,
+    "chip_time": "17:02.09"
+  },
+  {
+    "place": 78,
+    "bib": 432,
+    "name": "Melody Schoenfeld",
+    "sex": "F",
+    "age": 52,
+    "chip_time": "17:04.74"
+  },
+  {
+    "place": 79,
+    "bib": 222,
+    "name": "Sawyer Katz",
+    "sex": "M",
+    "age": 14,
+    "chip_time": "17:06.66"
+  },
+  {
+    "place": 80,
+    "bib": 454,
+    "name": "Emiko Smith",
+    "sex": "F",
+    "age": 25,
+    "chip_time": "17:13.14"
+  },
+  {
+    "place": 81,
+    "bib": 34,
+    "name": "Peter Barnes",
+    "sex": "M",
+    "age": 46,
+    "chip_time": "17:15.1"
+  },
+  {
+    "place": 82,
+    "bib": 479,
+    "name": "Tran Thu",
+    "sex": "M",
+    "age": 47,
+    "chip_time": "17:16.4"
+  },
+  {
+    "place": 83,
+    "bib": 209,
+    "name": "Shoja Jahangard",
+    "sex": "M",
+    "age": 27,
+    "chip_time": "17:19.38"
+  },
+  {
+    "place": 84,
+    "bib": 185,
+    "name": "Paul Heran",
+    "sex": "M",
+    "age": 77,
+    "chip_time": "17:20.5"
+  },
+  {
+    "place": 85,
+    "bib": 77,
+    "name": "Dominic Chevrier",
+    "sex": "M",
+    "age": 56,
+    "chip_time": "17:23.61"
+  },
+  {
+    "place": 86,
+    "bib": 532,
+    "name": "Mengdi Zhang",
+    "sex": "M",
+    "age": 32,
+    "chip_time": "17:24.63"
+  },
+  {
+    "place": 87,
+    "bib": 399,
+    "name": "Gilbert Rodriguez",
+    "sex": "M",
+    "age": 45,
+    "chip_time": "17:29.05"
+  },
+  {
+    "place": 88,
+    "bib": 365,
+    "name": "Emily Porter",
+    "sex": "F",
+    "age": 44,
+    "chip_time": "17:29.56"
+  },
+  {
+    "place": 89,
+    "bib": 261,
+    "name": "Matthew Leung",
+    "sex": "M",
+    "age": 25,
+    "chip_time": "17:34"
+  },
+  {
+    "place": 90,
+    "bib": 490,
+    "name": "Drew Tucker",
+    "sex": "M",
+    "age": 32,
+    "chip_time": "17:34.59"
+  },
+  {
+    "place": 91,
+    "bib": 658,
+    "name": "Marek Plechaty",
+    "sex": "M",
+    "age": null,
+    "chip_time": "17:36.42"
+  },
+  {
+    "place": 92,
+    "bib": 657,
+    "name": "Robert Espinoza",
+    "sex": "M",
+    "age": null,
+    "chip_time": "17:36.58"
+  },
+  {
+    "place": 93,
+    "bib": 194,
+    "name": "Heather Hoffman",
+    "sex": "F",
+    "age": 62,
+    "chip_time": "17:38.89"
+  },
+  {
+    "place": 94,
+    "bib": 33,
+    "name": "Darina Barnes",
+    "sex": "F",
+    "age": 43,
+    "chip_time": "17:40.95"
+  },
+  {
+    "place": 95,
+    "bib": 309,
+    "name": "Mary Mills",
+    "sex": "F",
+    "age": 62,
+    "chip_time": "17:41.88"
+  },
+  {
+    "place": 96,
+    "bib": 512,
+    "name": "Savannah Williams",
+    "sex": "F",
+    "age": 26,
+    "chip_time": "17:43.08"
+  },
+  {
+    "place": 97,
+    "bib": 548,
+    "name": "Avery Russell",
+    "sex": "F",
+    "age": 15,
+    "chip_time": "17:47.19"
+  },
+  {
+    "place": 98,
+    "bib": 75,
+    "name": "Kai Cheng",
+    "sex": "M",
+    "age": 38,
+    "chip_time": "17:49.73"
+  },
+  {
+    "place": 99,
+    "bib": 207,
+    "name": "Chase Jacobs",
+    "sex": "M",
+    "age": 40,
+    "chip_time": "17:50.34"
+  },
+  {
+    "place": 100,
+    "bib": 416,
+    "name": "Carla Russell",
+    "sex": "F",
+    "age": 53,
+    "chip_time": "18:00.47"
+  },
+  {
+    "place": 101,
+    "bib": 527,
+    "name": "Elizabeth Zernik",
+    "sex": "F",
+    "age": 57,
+    "chip_time": "18:04.38"
+  },
+  {
+    "place": 102,
+    "bib": 69,
+    "name": "Jose Chacon",
+    "sex": "M",
+    "age": 36,
+    "chip_time": "18:05.02"
+  },
+  {
+    "place": 103,
+    "bib": 114,
+    "name": "Samantha Desai",
+    "sex": "F",
+    "age": 46,
+    "chip_time": "18:06.48"
+  },
+  {
+    "place": 104,
+    "bib": 398,
+    "name": "Daniel Rodriguez",
+    "sex": "M",
+    "age": 58,
+    "chip_time": "18:07.49"
+  },
+  {
+    "place": 105,
+    "bib": 386,
+    "name": "Zoila Regalado",
+    "sex": "F",
+    "age": 65,
+    "chip_time": "18:11.5"
+  },
+  {
+    "place": 106,
+    "bib": 59,
+    "name": "Daniel Cancilla",
+    "sex": "M",
+    "age": 27,
+    "chip_time": "18:17.24"
+  },
+  {
+    "place": 107,
+    "bib": 315,
+    "name": "Alexander Montcalm",
+    "sex": "M",
+    "age": 38,
+    "chip_time": "18:17.33"
+  },
+  {
+    "place": 108,
+    "bib": 140,
+    "name": "Madeleine Fontillas Ronk",
+    "sex": "F",
+    "age": 57,
+    "chip_time": "18:17.99"
+  },
+  {
+    "place": 109,
+    "bib": 154,
+    "name": "Eve Gershon",
+    "sex": "F",
+    "age": 24,
+    "chip_time": "18:18.02"
+  },
+  {
+    "place": 110,
+    "bib": 93,
+    "name": "Junafe Cuaresma",
+    "sex": "F",
+    "age": 43,
+    "chip_time": "18:20.64"
+  },
+  {
+    "place": 111,
+    "bib": 3,
+    "name": "Eric Cooper",
+    "sex": "M",
+    "age": 59,
+    "chip_time": "18:22.29"
+  },
+  {
+    "place": 112,
+    "bib": 550,
+    "name": "George Molina",
+    "sex": "M",
+    "age": 37,
+    "chip_time": "18:22.71"
+  },
+  {
+    "place": 113,
+    "bib": 439,
+    "name": "Lauren Shitanishi",
+    "sex": "F",
+    "age": 30,
+    "chip_time": "18:26.18"
+  },
+  {
+    "place": 114,
+    "bib": 391,
+    "name": "Jonathan Richards",
+    "sex": "M",
+    "age": 38,
+    "chip_time": "18:27.42"
+  },
+  {
+    "place": 115,
+    "bib": 392,
+    "name": "Laura Richards",
+    "sex": "F",
+    "age": 38,
+    "chip_time": "18:28.26"
+  },
+  {
+    "place": 116,
+    "bib": 268,
+    "name": "Scott Listfield",
+    "sex": "M",
+    "age": 49,
+    "chip_time": "18:29.25"
+  },
+  {
+    "place": 117,
+    "bib": 522,
+    "name": "Jung Yun",
+    "sex": "M",
+    "age": 44,
+    "chip_time": "18:29.86"
+  },
+  {
+    "place": 118,
+    "bib": 112,
+    "name": "S. LaVeL DeLone",
+    "sex": "M",
+    "age": 58,
+    "chip_time": "18:33.01"
+  },
+  {
+    "place": 119,
+    "bib": 339,
+    "name": "Kristin Oelkers",
+    "sex": "F",
+    "age": 34,
+    "chip_time": "18:33.82"
+  },
+  {
+    "place": 120,
+    "bib": 486,
+    "name": "Sydney Tran",
+    "sex": "F",
+    "age": 27,
+    "chip_time": "18:34.07"
+  },
+  {
+    "place": 121,
+    "bib": 289,
+    "name": "Danielle Martin Spicer",
+    "sex": "F",
+    "age": 48,
+    "chip_time": "18:35.86"
+  },
+  {
+    "place": 122,
+    "bib": 260,
+    "name": "Karen Lemberger",
+    "sex": "F",
+    "age": 35,
+    "chip_time": "18:37.1"
+  },
+  {
+    "place": 123,
+    "bib": 262,
+    "name": "David Lew",
+    "sex": "M",
+    "age": 48,
+    "chip_time": "18:39.15"
+  },
+  {
+    "place": 124,
+    "bib": 92,
+    "name": "Mary Cromwell",
+    "sex": "F",
+    "age": 35,
+    "chip_time": "18:39.16"
+  },
+  {
+    "place": 125,
+    "bib": 78,
+    "name": "David Chien",
+    "sex": "M",
+    "age": 53,
+    "chip_time": "18:39.57"
+  },
+  {
+    "place": 126,
+    "bib": 217,
+    "name": "Alex Kakutani",
+    "sex": "M",
+    "age": 59,
+    "chip_time": "18:41.2"
+  },
+  {
+    "place": 127,
+    "bib": 362,
+    "name": "Nancy Porras",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "18:53.05"
+  },
+  {
+    "place": 128,
+    "bib": 670,
+    "name": "Lamia Maalouf",
+    "sex": "F",
+    "age": null,
+    "chip_time": "18:55.12"
+  },
+  {
+    "place": 129,
+    "bib": 561,
+    "name": "James Cruz",
+    "sex": "M",
+    "age": 42,
+    "chip_time": "18:58.15"
+  },
+  {
+    "place": 130,
+    "bib": 87,
+    "name": "Nick Cleary",
+    "sex": "M",
+    "age": 47,
+    "chip_time": "18:59.88"
+  },
+  {
+    "place": 131,
+    "bib": 444,
+    "name": "Marco Sierra",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "19:00.33"
+  },
+  {
+    "place": 132,
+    "bib": 660,
+    "name": "William Martinez",
+    "sex": "M",
+    "age": null,
+    "chip_time": "19:01.97"
+  },
+  {
+    "place": 133,
+    "bib": 563,
+    "name": "Mike Nino",
+    "sex": "M",
+    "age": 62,
+    "chip_time": "19:05.87"
+  },
+  {
+    "place": 134,
+    "bib": 661,
+    "name": "Valentin Hernandez",
+    "sex": "M",
+    "age": null,
+    "chip_time": "19:06.53"
+  },
+  {
+    "place": 135,
+    "bib": 80,
+    "name": "Angela Christopher",
+    "sex": "F",
+    "age": 24,
+    "chip_time": "19:06.75"
+  },
+  {
+    "place": 136,
+    "bib": 460,
+    "name": "Justin Spina",
+    "sex": "M",
+    "age": 46,
+    "chip_time": "19:09.41"
+  },
+  {
+    "place": 137,
+    "bib": 554,
+    "name": "E. Debiasse",
+    "sex": "F",
+    "age": 12,
+    "chip_time": "19:09.64"
+  },
+  {
+    "place": 138,
+    "bib": 81,
+    "name": "Douglas Christopher",
+    "sex": "M",
+    "age": 61,
+    "chip_time": "19:12.79"
+  },
+  {
+    "place": 139,
+    "bib": 330,
+    "name": "Jacob Nanquil",
+    "sex": "M",
+    "age": 23,
+    "chip_time": "19:13.3"
+  },
+  {
+    "place": 140,
+    "bib": 129,
+    "name": "Maggie Escobar",
+    "sex": "F",
+    "age": 38,
+    "chip_time": "19:15.48"
+  },
+  {
+    "place": 141,
+    "bib": 149,
+    "name": "Dan Gambito",
+    "sex": "M",
+    "age": 57,
+    "chip_time": "19:19.64"
+  },
+  {
+    "place": 142,
+    "bib": 535,
+    "name": "Alvin Raquipiso",
+    "sex": "M",
+    "age": 65,
+    "chip_time": "19:22.15"
+  },
+  {
+    "place": 143,
+    "bib": 63,
+    "name": "Drea Caruso",
+    "sex": "F",
+    "age": 54,
+    "chip_time": "19:22.23"
+  },
+  {
+    "place": 144,
+    "bib": 99,
+    "name": "Dallas Davidson",
+    "sex": "M",
+    "age": 48,
+    "chip_time": "19:24.73"
+  },
+  {
+    "place": 145,
+    "bib": 402,
+    "name": "Robert Rodriguez",
+    "sex": "M",
+    "age": 61,
+    "chip_time": "19:26.62"
+  },
+  {
+    "place": 146,
+    "bib": 571,
+    "name": "Samantha Curran",
+    "sex": "F",
+    "age": 31,
+    "chip_time": "19:30.18"
+  },
+  {
+    "place": 147,
+    "bib": 533,
+    "name": "Juan Olivera",
+    "sex": "M",
+    "age": 54,
+    "chip_time": "19:31.74"
+  },
+  {
+    "place": 148,
+    "bib": 164,
+    "name": "Stephen Gonzalez",
+    "sex": "M",
+    "age": 29,
+    "chip_time": "19:32.82"
+  },
+  {
+    "place": 149,
+    "bib": 119,
+    "name": "Ken Dreshfield",
+    "sex": "M",
+    "age": 67,
+    "chip_time": "19:36.54"
+  },
+  {
+    "place": 150,
+    "bib": 655,
+    "name": "Johnny Garcia",
+    "sex": "M",
+    "age": null,
+    "chip_time": "19:37.12"
+  },
+  {
+    "place": 151,
+    "bib": 197,
+    "name": "Manny Hui",
+    "sex": "M",
+    "age": 52,
+    "chip_time": "19:37.81"
+  },
+  {
+    "place": 152,
+    "bib": 517,
+    "name": "Janet Wong",
+    "sex": "F",
+    "age": 52,
+    "chip_time": "19:38.12"
+  },
+  {
+    "place": 153,
+    "bib": 73,
+    "name": "Brian Chavez",
+    "sex": "M",
+    "age": 14,
+    "chip_time": "19:42.08"
+  },
+  {
+    "place": 154,
+    "bib": 418,
+    "name": "Holly Saari",
+    "sex": "F",
+    "age": 55,
+    "chip_time": "19:43.16"
+  },
+  {
+    "place": 155,
+    "bib": 145,
+    "name": "Herbert Friedman",
+    "sex": "M",
+    "age": 71,
+    "chip_time": "19:44.56"
+  },
+  {
+    "place": 156,
+    "bib": 544,
+    "name": "Dave Russell",
+    "sex": "M",
+    "age": 51,
+    "chip_time": "19:46.56"
+  },
+  {
+    "place": 157,
+    "bib": 659,
+    "name": "Kristina Krisskova",
+    "sex": "F",
+    "age": null,
+    "chip_time": "19:50.51"
+  },
+  {
+    "place": 158,
+    "bib": 673,
+    "name": "Gina Isaac",
+    "sex": "M",
+    "age": null,
+    "chip_time": "19:54.61"
+  },
+  {
+    "place": 159,
+    "bib": 419,
+    "name": "Sophia Sabini-Leite",
+    "sex": "F",
+    "age": 25,
+    "chip_time": "19:55.33"
+  },
+  {
+    "place": 160,
+    "bib": 301,
+    "name": "Russell McGeehan",
+    "sex": "M",
+    "age": 51,
+    "chip_time": "19:57.24"
+  },
+  {
+    "place": 161,
+    "bib": 431,
+    "name": "Richard Sasaki",
+    "sex": "M",
+    "age": 40,
+    "chip_time": "19:57.25"
+  },
+  {
+    "place": 162,
+    "bib": 171,
+    "name": "Elisa Guevara",
+    "sex": "F",
+    "age": 40,
+    "chip_time": "20:06.11"
+  },
+  {
+    "place": 163,
+    "bib": 310,
+    "name": "Mark Mina",
+    "sex": "M",
+    "age": 37,
+    "chip_time": "20:06.22"
+  },
+  {
+    "place": 164,
+    "bib": 351,
+    "name": "Sophia Pang",
+    "sex": "F",
+    "age": 73,
+    "chip_time": "20:09.03"
+  },
+  {
+    "place": 165,
+    "bib": 679,
+    "name": "Randy Stamen",
+    "sex": "M",
+    "age": 59,
+    "chip_time": "20:14.78"
+  },
+  {
+    "place": 166,
+    "bib": 248,
+    "name": "Anel Laj",
+    "sex": "F",
+    "age": 50,
+    "chip_time": "20:23.12"
+  },
+  {
+    "place": 167,
+    "bib": 401,
+    "name": "Mariam Rodriguez",
+    "sex": "F",
+    "age": 33,
+    "chip_time": "20:23.12"
+  },
+  {
+    "place": 168,
+    "bib": 420,
+    "name": "Marisol Salcido",
+    "sex": "F",
+    "age": 34,
+    "chip_time": "20:27.97"
+  },
+  {
+    "place": 169,
+    "bib": 45,
+    "name": "Miabella Bolton",
+    "sex": "F",
+    "age": 25,
+    "chip_time": "20:32.27"
+  },
+  {
+    "place": 170,
+    "bib": 358,
+    "name": "Kyle Peterson",
+    "sex": "M",
+    "age": 44,
+    "chip_time": "20:36.89"
+  },
+  {
+    "place": 171,
+    "bib": 142,
+    "name": "Diedre Fox",
+    "sex": "F",
+    "age": 44,
+    "chip_time": "20:37.07"
+  },
+  {
+    "place": 172,
+    "bib": 239,
+    "name": "Daria Kuznetsova",
+    "sex": "F",
+    "age": 32,
+    "chip_time": "20:38.68"
+  },
+  {
+    "place": 173,
+    "bib": 67,
+    "name": "Pola Cervantes",
+    "sex": "F",
+    "age": 55,
+    "chip_time": "20:45.54"
+  },
+  {
+    "place": 174,
+    "bib": 133,
+    "name": "John Feldt",
+    "sex": "M",
+    "age": 71,
+    "chip_time": "20:46.65"
+  },
+  {
+    "place": 175,
+    "bib": 672,
+    "name": "Byron Lynch",
+    "sex": "M",
+    "age": 37,
+    "chip_time": "20:47.19"
+  },
+  {
+    "place": 176,
+    "bib": 359,
+    "name": "Miguel Plancarte",
+    "sex": "M",
+    "age": 34,
+    "chip_time": "20:50.23"
+  },
+  {
+    "place": 177,
+    "bib": 565,
+    "name": "Walter Roby",
+    "sex": "M",
+    "age": null,
+    "chip_time": "20:50.54"
+  },
+  {
+    "place": 178,
+    "bib": 366,
+    "name": "Uma Poskovic",
+    "sex": "F",
+    "age": 55,
+    "chip_time": "20:51.58"
+  },
+  {
+    "place": 179,
+    "bib": 286,
+    "name": "Christopher Maier",
+    "sex": "M",
+    "age": 38,
+    "chip_time": "20:57.15"
+  },
+  {
+    "place": 180,
+    "bib": 265,
+    "name": "Felix Lin",
+    "sex": "M",
+    "age": 55,
+    "chip_time": "20:57.16"
+  },
+  {
+    "place": 181,
+    "bib": 44,
+    "name": "Elle Bolton",
+    "sex": "F",
+    "age": 53,
+    "chip_time": "20:57.88"
+  },
+  {
+    "place": 182,
+    "bib": 65,
+    "name": "Robert Cathcart",
+    "sex": "M",
+    "age": 42,
+    "chip_time": "20:58.65"
+  },
+  {
+    "place": 183,
+    "bib": 53,
+    "name": "Jennifer Bruce",
+    "sex": "F",
+    "age": 31,
+    "chip_time": "20:59.16"
+  },
+  {
+    "place": 184,
+    "bib": 471,
+    "name": "Mary Tataryan",
+    "sex": "F",
+    "age": 38,
+    "chip_time": "20:59.79"
+  },
+  {
+    "place": 185,
+    "bib": 98,
+    "name": "Brenda Davidge",
+    "sex": "F",
+    "age": 51,
+    "chip_time": "20:59.8"
+  },
+  {
+    "place": 186,
+    "bib": 371,
+    "name": "Anna Puhky",
+    "sex": "F",
+    "age": 45,
+    "chip_time": "20:59.8"
+  },
+  {
+    "place": 187,
+    "bib": 295,
+    "name": "Alec Mayes",
+    "sex": "F",
+    "age": 24,
+    "chip_time": "20:59.88"
+  },
+  {
+    "place": 188,
+    "bib": 575,
+    "name": "Christopher Fujita",
+    "sex": null,
+    "age": 39,
+    "chip_time": "21:00.96"
+  },
+  {
+    "place": 189,
+    "bib": 252,
+    "name": "Sarah Lanzner",
+    "sex": "F",
+    "age": 26,
+    "chip_time": "21:08.42"
+  },
+  {
+    "place": 190,
+    "bib": 64,
+    "name": "Christine Cathcart",
+    "sex": "F",
+    "age": 42,
+    "chip_time": "21:09.29"
+  },
+  {
+    "place": 191,
+    "bib": 57,
+    "name": "Natalia Caldona",
+    "sex": "F",
+    "age": 37,
+    "chip_time": "21:13.32"
+  },
+  {
+    "place": 192,
+    "bib": 523,
+    "name": "Hannah Zachary",
+    "sex": "F",
+    "age": 36,
+    "chip_time": "21:14.58"
+  },
+  {
+    "place": 193,
+    "bib": 428,
+    "name": "Sujal Saraiya",
+    "sex": "M",
+    "age": 53,
+    "chip_time": "21:14.84"
+  },
+  {
+    "place": 194,
+    "bib": 180,
+    "name": "Angelica Harris",
+    "sex": "F",
+    "age": 59,
+    "chip_time": "21:17.91"
+  },
+  {
+    "place": 195,
+    "bib": 31,
+    "name": "Joey Ballard",
+    "sex": "M",
+    "age": 42,
+    "chip_time": "21:18.51"
+  },
+  {
+    "place": 196,
+    "bib": 427,
+    "name": "Sophia Saraiya",
+    "sex": "F",
+    "age": 14,
+    "chip_time": "21:19.15"
+  },
+  {
+    "place": 197,
+    "bib": 313,
+    "name": "Glenn Molina",
+    "sex": null,
+    "age": 49,
+    "chip_time": "21:19.66"
+  },
+  {
+    "place": 198,
+    "bib": 285,
+    "name": "Antonia Magana",
+    "sex": "F",
+    "age": 52,
+    "chip_time": "21:19.87"
+  },
+  {
+    "place": 199,
+    "bib": 543,
+    "name": "Alex Arnwine",
+    "sex": "M",
+    "age": 40,
+    "chip_time": "21:19.97"
+  },
+  {
+    "place": 200,
+    "bib": 94,
+    "name": "Brian Cunningham",
+    "sex": "M",
+    "age": 68,
+    "chip_time": "21:33.33"
+  },
+  {
+    "place": 201,
+    "bib": 524,
+    "name": "John Zachary",
+    "sex": "M",
+    "age": 70,
+    "chip_time": "21:35.77"
+  },
+  {
+    "place": 202,
+    "bib": 186,
+    "name": "Ekaxi Hernandez",
+    "sex": "M",
+    "age": 33,
+    "chip_time": "21:36.43"
+  },
+  {
+    "place": 203,
+    "bib": 251,
+    "name": "Kelly Lands",
+    "sex": "F",
+    "age": 48,
+    "chip_time": "21:37"
+  },
+  {
+    "place": 204,
+    "bib": 150,
+    "name": "Margarito Garcia",
+    "sex": "M",
+    "age": 42,
+    "chip_time": "21:39.32"
+  },
+  {
+    "place": 205,
+    "bib": 573,
+    "name": "Deb Charlton",
+    "sex": null,
+    "age": 58,
+    "chip_time": "21:39.37"
+  },
+  {
+    "place": 206,
+    "bib": 458,
+    "name": "Melissa Solorzano",
+    "sex": "F",
+    "age": 32,
+    "chip_time": "21:40.26"
+  },
+  {
+    "place": 207,
+    "bib": 536,
+    "name": "Arnold Pamplona",
+    "sex": "M",
+    "age": 49,
+    "chip_time": "21:41.97"
+  },
+  {
+    "place": 208,
+    "bib": 482,
+    "name": "Douglas Tohom",
+    "sex": "M",
+    "age": 32,
+    "chip_time": "21:45.35"
+  },
+  {
+    "place": 209,
+    "bib": 311,
+    "name": "Julia Mockeridge",
+    "sex": "F",
+    "age": 45,
+    "chip_time": "21:49.15"
+  },
+  {
+    "place": 210,
+    "bib": 37,
+    "name": "Elisabeth Becker",
+    "sex": "F",
+    "age": 17,
+    "chip_time": "21:49.74"
+  },
+  {
+    "place": 211,
+    "bib": 231,
+    "name": "Jeff Klein",
+    "sex": "M",
+    "age": 59,
+    "chip_time": "21:49.75"
+  },
+  {
+    "place": 212,
+    "bib": 6,
+    "name": "Derik Tom",
+    "sex": "M",
+    "age": 36,
+    "chip_time": "21:58.68"
+  },
+  {
+    "place": 213,
+    "bib": 272,
+    "name": "Angela Loh-Chien",
+    "sex": "F",
+    "age": 50,
+    "chip_time": "22:00.22"
+  },
+  {
+    "place": 214,
+    "bib": 433,
+    "name": "Lois Schunk",
+    "sex": "F",
+    "age": 74,
+    "chip_time": "22:00.39"
+  },
+  {
+    "place": 215,
+    "bib": 243,
+    "name": "Nate La Russo",
+    "sex": "M",
+    "age": 42,
+    "chip_time": "22:05.07"
+  },
+  {
+    "place": 216,
+    "bib": 483,
+    "name": "Philip Tong",
+    "sex": "M",
+    "age": 41,
+    "chip_time": "22:05.61"
+  },
+  {
+    "place": 217,
+    "bib": 564,
+    "name": "Tanuja Manohar",
+    "sex": "F",
+    "age": 37,
+    "chip_time": "22:10"
+  },
+  {
+    "place": 218,
+    "bib": 22,
+    "name": "Calena Ang",
+    "sex": "F",
+    "age": 25,
+    "chip_time": "22:10.73"
+  },
+  {
+    "place": 219,
+    "bib": 475,
+    "name": "Khim Teoh",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "22:11.39"
+  },
+  {
+    "place": 220,
+    "bib": 105,
+    "name": "Matthew Davis",
+    "sex": "M",
+    "age": 50,
+    "chip_time": "22:16.73"
+  },
+  {
+    "place": 221,
+    "bib": 372,
+    "name": "Eugenia Puyot",
+    "sex": "F",
+    "age": 34,
+    "chip_time": "22:17.77"
+  },
+  {
+    "place": 222,
+    "bib": 553,
+    "name": "Carmina Jimenez",
+    "sex": "F",
+    "age": 31,
+    "chip_time": "22:20.18"
+  },
+  {
+    "place": 223,
+    "bib": 233,
+    "name": "Joann Ko",
+    "sex": "F",
+    "age": 40,
+    "chip_time": "22:24.96"
+  },
+  {
+    "place": 224,
+    "bib": 530,
+    "name": "Mauna Desai",
+    "sex": "F",
+    "age": 39,
+    "chip_time": "22:25.72"
+  },
+  {
+    "place": 225,
+    "bib": 70,
+    "name": "Christine Chan",
+    "sex": "F",
+    "age": 47,
+    "chip_time": "22:28.21"
+  },
+  {
+    "place": 226,
+    "bib": 516,
+    "name": "Deric Witt",
+    "sex": "M",
+    "age": 51,
+    "chip_time": "22:32.31"
+  },
+  {
+    "place": 227,
+    "bib": 545,
+    "name": "Edgar Plazola",
+    "sex": "M",
+    "age": 49,
+    "chip_time": "22:38.43"
+  },
+  {
+    "place": 228,
+    "bib": 476,
+    "name": "Lek Thanavatik",
+    "sex": "M",
+    "age": 55,
+    "chip_time": "22:40.82"
+  },
+  {
+    "place": 229,
+    "bib": 355,
+    "name": "Sara Patterson",
+    "sex": "F",
+    "age": 32,
+    "chip_time": "22:40.97"
+  },
+  {
+    "place": 230,
+    "bib": 411,
+    "name": "Latasha Rosado",
+    "sex": "F",
+    "age": 33,
+    "chip_time": "22:42.72"
+  },
+  {
+    "place": 231,
+    "bib": 457,
+    "name": "Cindy Snyder",
+    "sex": "F",
+    "age": 41,
+    "chip_time": "22:50.76"
+  },
+  {
+    "place": 232,
+    "bib": 323,
+    "name": "Jasmine Munoz",
+    "sex": "F",
+    "age": 33,
+    "chip_time": "22:52.21"
+  },
+  {
+    "place": 233,
+    "bib": 461,
+    "name": "Allan Spring",
+    "sex": "M",
+    "age": 69,
+    "chip_time": "22:53.32"
+  },
+  {
+    "place": 234,
+    "bib": 560,
+    "name": "Erika Cruz",
+    "sex": "F",
+    "age": 40,
+    "chip_time": "22:54.56"
+  },
+  {
+    "place": 235,
+    "bib": 375,
+    "name": "Miriya Quintana",
+    "sex": "F",
+    "age": 35,
+    "chip_time": "22:58.09"
+  },
+  {
+    "place": 236,
+    "bib": 495,
+    "name": "Jazmine Vazquez",
+    "sex": "F",
+    "age": 30,
+    "chip_time": "23:07.12"
+  },
+  {
+    "place": 237,
+    "bib": 110,
+    "name": "Rebecca DeBiasse",
+    "sex": "F",
+    "age": null,
+    "chip_time": "23:08.67"
+  },
+  {
+    "place": 238,
+    "bib": 324,
+    "name": "Lilyana Munoz",
+    "sex": "F",
+    "age": 50,
+    "chip_time": "23:09.3"
+  },
+  {
+    "place": 239,
+    "bib": 229,
+    "name": "Laura Kitagawa",
+    "sex": "F",
+    "age": 67,
+    "chip_time": "23:11.58"
+  },
+  {
+    "place": 240,
+    "bib": 492,
+    "name": "Maggie Valenzuela",
+    "sex": "F",
+    "age": 48,
+    "chip_time": "23:12.26"
+  },
+  {
+    "place": 241,
+    "bib": 508,
+    "name": "DebraRayne White",
+    "sex": "F",
+    "age": 14,
+    "chip_time": "23:14.3"
+  },
+  {
+    "place": 242,
+    "bib": 668,
+    "name": "Diana Berlin",
+    "sex": "F",
+    "age": null,
+    "chip_time": "23:16.69"
+  },
+  {
+    "place": 243,
+    "bib": 337,
+    "name": "Mar Nun",
+    "sex": "F",
+    "age": 46,
+    "chip_time": "23:18.22"
+  },
+  {
+    "place": 244,
+    "bib": 291,
+    "name": "Christine Martinez",
+    "sex": "F",
+    "age": 44,
+    "chip_time": "23:25.41"
+  },
+  {
+    "place": 245,
+    "bib": 407,
+    "name": "L. Romero",
+    "sex": "F",
+    "age": 12,
+    "chip_time": "23:29.01"
+  },
+  {
+    "place": 246,
+    "bib": 198,
+    "name": "Steven Hull",
+    "sex": "M",
+    "age": 48,
+    "chip_time": "23:29.05"
+  },
+  {
+    "place": 247,
+    "bib": 89,
+    "name": "Nancy Cortez",
+    "sex": "F",
+    "age": 50,
+    "chip_time": "23:29.42"
+  },
+  {
+    "place": 248,
+    "bib": 437,
+    "name": "Lilian Shai",
+    "sex": "F",
+    "age": 39,
+    "chip_time": "23:30.12"
+  },
+  {
+    "place": 249,
+    "bib": 170,
+    "name": "Anthony T Guerrero",
+    "sex": "M",
+    "age": 35,
+    "chip_time": "23:30.64"
+  },
+  {
+    "place": 250,
+    "bib": 521,
+    "name": "Ashley Young",
+    "sex": "F",
+    "age": 36,
+    "chip_time": "23:39.79"
+  },
+  {
+    "place": 251,
+    "bib": 348,
+    "name": "Lia Padilla Berger",
+    "sex": "F",
+    "age": 43,
+    "chip_time": "23:43.92"
+  },
+  {
+    "place": 252,
+    "bib": 669,
+    "name": "Michelle Berlin",
+    "sex": "F",
+    "age": null,
+    "chip_time": "23:45.7"
+  },
+  {
+    "place": 253,
+    "bib": 107,
+    "name": "Bianca de la Fuente",
+    "sex": "F",
+    "age": 31,
+    "chip_time": "23:48.73"
+  },
+  {
+    "place": 254,
+    "bib": 86,
+    "name": "Katherine Clark",
+    "sex": "F",
+    "age": 45,
+    "chip_time": "23:51.59"
+  },
+  {
+    "place": 255,
+    "bib": 373,
+    "name": "Manuel Puyot",
+    "sex": "M",
+    "age": 25,
+    "chip_time": "23:53.18"
+  },
+  {
+    "place": 256,
+    "bib": 406,
+    "name": "Jorge Romero",
+    "sex": "M",
+    "age": 32,
+    "chip_time": "23:57.86"
+  },
+  {
+    "place": 257,
+    "bib": 290,
+    "name": "B. Martinez",
+    "sex": "M",
+    "age": 9,
+    "chip_time": "23:59.28"
+  },
+  {
+    "place": 258,
+    "bib": 408,
+    "name": "Z. Romero",
+    "sex": "F",
+    "age": 9,
+    "chip_time": "24:00.38"
+  },
+  {
+    "place": 259,
+    "bib": 675,
+    "name": "Latif Nasser",
+    "sex": "M",
+    "age": null,
+    "chip_time": "24:01.15"
+  },
+  {
+    "place": 260,
+    "bib": 235,
+    "name": "Sasha Koresh",
+    "sex": "F",
+    "age": 14,
+    "chip_time": "24:02.97"
+  },
+  {
+    "place": 261,
+    "bib": 294,
+    "name": "Jorge Martinez",
+    "sex": "M",
+    "age": 46,
+    "chip_time": "24:06.74"
+  },
+  {
+    "place": 262,
+    "bib": 474,
+    "name": "Lizzle Templo",
+    "sex": "F",
+    "age": 57,
+    "chip_time": "24:07.26"
+  },
+  {
+    "place": 263,
+    "bib": 514,
+    "name": "Christina Wilson",
+    "sex": "F",
+    "age": 57,
+    "chip_time": "24:07.82"
+  },
+  {
+    "place": 264,
+    "bib": 663,
+    "name": "Jennifer Becker",
+    "sex": "F",
+    "age": 54,
+    "chip_time": "24:10.17"
+  },
+  {
+    "place": 265,
+    "bib": 271,
+    "name": "Sharon Liu",
+    "sex": "F",
+    "age": 53,
+    "chip_time": "24:14.84"
+  },
+  {
+    "place": 266,
+    "bib": 28,
+    "name": "Shawn Atlow",
+    "sex": "F",
+    "age": 50,
+    "chip_time": "24:16.57"
+  },
+  {
+    "place": 267,
+    "bib": 567,
+    "name": "John Wardell",
+    "sex": null,
+    "age": 39,
+    "chip_time": "24:21.37"
+  },
+  {
+    "place": 268,
+    "bib": 538,
+    "name": "Tinh Quach",
+    "sex": "M",
+    "age": 50,
+    "chip_time": "24:24.43"
+  },
+  {
+    "place": 269,
+    "bib": 319,
+    "name": "Karl Morton",
+    "sex": "M",
+    "age": 61,
+    "chip_time": "24:28.31"
+  },
+  {
+    "place": 270,
+    "bib": 135,
+    "name": "Virchus Ferguson",
+    "sex": "F",
+    "age": 46,
+    "chip_time": "24:31.33"
+  },
+  {
+    "place": 271,
+    "bib": 569,
+    "name": "Dona Stewart",
+    "sex": "F",
+    "age": 35,
+    "chip_time": "24:33.36"
+  },
+  {
+    "place": 272,
+    "bib": 90,
+    "name": "Jacqueline Costa",
+    "sex": "F",
+    "age": 61,
+    "chip_time": "24:39.23"
+  },
+  {
+    "place": 273,
+    "bib": 216,
+    "name": "Paul Jung",
+    "sex": "M",
+    "age": 42,
+    "chip_time": "24:40.06"
+  },
+  {
+    "place": 274,
+    "bib": 389,
+    "name": "Annie Rhodes",
+    "sex": "F",
+    "age": 46,
+    "chip_time": "24:43.41"
+  },
+  {
+    "place": 275,
+    "bib": 152,
+    "name": "Joshua Gardner",
+    "sex": "M",
+    "age": 42,
+    "chip_time": "24:45.04"
+  },
+  {
+    "place": 276,
+    "bib": 7,
+    "name": "Danielle Garcia",
+    "sex": "F",
+    "age": null,
+    "chip_time": "24:48.46"
+  },
+  {
+    "place": 277,
+    "bib": 228,
+    "name": "Junko Kimura",
+    "sex": "F",
+    "age": 60,
+    "chip_time": "24:49.49"
+  },
+  {
+    "place": 278,
+    "bib": 338,
+    "name": "Doug Nyland",
+    "sex": "M",
+    "age": 61,
+    "chip_time": "24:52.5"
+  },
+  {
+    "place": 279,
+    "bib": 325,
+    "name": "Sarah Munoz",
+    "sex": "F",
+    "age": 31,
+    "chip_time": "24:52.61"
+  },
+  {
+    "place": 280,
+    "bib": 287,
+    "name": "Rodney Mardirosian",
+    "sex": "M",
+    "age": 43,
+    "chip_time": "25:00.4"
+  },
+  {
+    "place": 281,
+    "bib": 671,
+    "name": "Greg Angstreich",
+    "sex": "M",
+    "age": null,
+    "chip_time": "25:07.02"
+  },
+  {
+    "place": 282,
+    "bib": 124,
+    "name": "Deanna Ellis",
+    "sex": "F",
+    "age": 39,
+    "chip_time": "25:09.77"
+  },
+  {
+    "place": 283,
+    "bib": 350,
+    "name": "Jamaal Palmer",
+    "sex": "M",
+    "age": 46,
+    "chip_time": "25:23.55"
+  },
+  {
+    "place": 284,
+    "bib": 364,
+    "name": "Veronica Porras",
+    "sex": "F",
+    "age": 54,
+    "chip_time": "25:30"
+  },
+  {
+    "place": 285,
+    "bib": 20,
+    "name": "Nicole Alvarez",
+    "sex": "F",
+    "age": 32,
+    "chip_time": "25:30.26"
+  },
+  {
+    "place": 286,
+    "bib": 518,
+    "name": "Ally Wozniak",
+    "sex": "F",
+    "age": 33,
+    "chip_time": "25:33.25"
+  },
+  {
+    "place": 287,
+    "bib": 502,
+    "name": "Andrea von Szoke",
+    "sex": "F",
+    "age": 47,
+    "chip_time": "25:34.55"
+  },
+  {
+    "place": 288,
+    "bib": 426,
+    "name": "Maya Saraiya",
+    "sex": "F",
+    "age": 14,
+    "chip_time": "25:38.73"
+  },
+  {
+    "place": 289,
+    "bib": 206,
+    "name": "Julian Jackson-Roman",
+    "sex": "M",
+    "age": 30,
+    "chip_time": "25:39.92"
+  },
+  {
+    "place": 290,
+    "bib": 130,
+    "name": "Esteban Esqueda",
+    "sex": "M",
+    "age": 34,
+    "chip_time": "25:40.92"
+  },
+  {
+    "place": 291,
+    "bib": 82,
+    "name": "Mark Chu",
+    "sex": "M",
+    "age": 46,
+    "chip_time": "25:42.17"
+  },
+  {
+    "place": 292,
+    "bib": 246,
+    "name": "Veronica Lagunas",
+    "sex": "F",
+    "age": 51,
+    "chip_time": "25:45.13"
+  },
+  {
+    "place": 293,
+    "bib": 139,
+    "name": "Mandy Flynn",
+    "sex": "F",
+    "age": 43,
+    "chip_time": "25:49.76"
+  },
+  {
+    "place": 294,
+    "bib": 556,
+    "name": "Julia Fargotstein",
+    "sex": "F",
+    "age": 22,
+    "chip_time": "25:50.11"
+  },
+  {
+    "place": 295,
+    "bib": 584,
+    "name": "Maciek Kolodziejczak",
+    "sex": "M",
+    "age": 71,
+    "chip_time": "25:51.83"
+  },
+  {
+    "place": 296,
+    "bib": 485,
+    "name": "Jane Trahanovsky",
+    "sex": "F",
+    "age": 69,
+    "chip_time": "25:53.07"
+  },
+  {
+    "place": 297,
+    "bib": 354,
+    "name": "Sonal Patel",
+    "sex": "F",
+    "age": 52,
+    "chip_time": "25:54.51"
+  },
+  {
+    "place": 298,
+    "bib": 576,
+    "name": "Miguel Luna",
+    "sex": null,
+    "age": 47,
+    "chip_time": "25:57.2"
+  },
+  {
+    "place": 299,
+    "bib": 481,
+    "name": "Elizabeth Tirado",
+    "sex": "F",
+    "age": 51,
+    "chip_time": "26:01.64"
+  },
+  {
+    "place": 300,
+    "bib": 409,
+    "name": "Bobby Romo",
+    "sex": "M",
+    "age": 48,
+    "chip_time": "26:02.32"
+  },
+  {
+    "place": 301,
+    "bib": 335,
+    "name": "Anthony Nino",
+    "sex": "M",
+    "age": 34,
+    "chip_time": "26:04.15"
+  },
+  {
+    "place": 302,
+    "bib": 507,
+    "name": "Darin White",
+    "sex": "M",
+    "age": 45,
+    "chip_time": "26:04.55"
+  },
+  {
+    "place": 303,
+    "bib": 423,
+    "name": "UmaShanker Sampath",
+    "sex": "M",
+    "age": 63,
+    "chip_time": "26:08.55"
+  },
+  {
+    "place": 304,
+    "bib": 361,
+    "name": "Vera Polanco",
+    "sex": "F",
+    "age": 62,
+    "chip_time": "26:10.23"
+  },
+  {
+    "place": 305,
+    "bib": 211,
+    "name": "Sonia Jimenez",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "26:11.56"
+  },
+  {
+    "place": 306,
+    "bib": 23,
+    "name": "Edgar Angulo",
+    "sex": null,
+    "age": 46,
+    "chip_time": "26:15.99"
+  },
+  {
+    "place": 307,
+    "bib": 385,
+    "name": "Jennifer Redner",
+    "sex": "F",
+    "age": 68,
+    "chip_time": "26:21.79"
+  },
+  {
+    "place": 308,
+    "bib": 334,
+    "name": "Elena Nihoa",
+    "sex": "F",
+    "age": 57,
+    "chip_time": "26:25.42"
+  },
+  {
+    "place": 309,
+    "bib": 264,
+    "name": "Kelli Lim",
+    "sex": "F",
+    "age": 28,
+    "chip_time": "26:35.73"
+  },
+  {
+    "place": 310,
+    "bib": 74,
+    "name": "Daisy Chavez",
+    "sex": "F",
+    "age": 41,
+    "chip_time": "26:50.45"
+  },
+  {
+    "place": 311,
+    "bib": 26,
+    "name": "Arun Asher",
+    "sex": "M",
+    "age": 84,
+    "chip_time": "26:53.09"
+  },
+  {
+    "place": 312,
+    "bib": 667,
+    "name": "Pamela Diaz",
+    "sex": "F",
+    "age": null,
+    "chip_time": "27:09.77"
+  },
+  {
+    "place": 313,
+    "bib": 27,
+    "name": "Diana Assadourian",
+    "sex": "F",
+    "age": 38,
+    "chip_time": "27:20.91"
+  },
+  {
+    "place": 314,
+    "bib": 277,
+    "name": "Sydney Lopez",
+    "sex": "F",
+    "age": 36,
+    "chip_time": "27:23.94"
+  },
+  {
+    "place": 315,
+    "bib": 227,
+    "name": "Peter Kim",
+    "sex": "M",
+    "age": 38,
+    "chip_time": "27:24.7"
+  },
+  {
+    "place": 316,
+    "bib": 266,
+    "name": "Hank Lin",
+    "sex": "M",
+    "age": 35,
+    "chip_time": "27:26.41"
+  },
+  {
+    "place": 317,
+    "bib": 178,
+    "name": "Sophia Han",
+    "sex": "F",
+    "age": 34,
+    "chip_time": "27:32.25"
+  },
+  {
+    "place": 318,
+    "bib": 157,
+    "name": "Ernesto Gomez",
+    "sex": "M",
+    "age": 48,
+    "chip_time": "27:34.02"
+  },
+  {
+    "place": 319,
+    "bib": 159,
+    "name": "Ofelia Gomez",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "27:50.89"
+  },
+  {
+    "place": 320,
+    "bib": 473,
+    "name": "Nicole Taylor",
+    "sex": "F",
+    "age": 39,
+    "chip_time": "27:51.14"
+  },
+  {
+    "place": 321,
+    "bib": 191,
+    "name": "Vicki Higa",
+    "sex": "F",
+    "age": 61,
+    "chip_time": "28:08.54"
+  },
+  {
+    "place": 322,
+    "bib": 540,
+    "name": "Christina Long",
+    "sex": "F",
+    "age": 46,
+    "chip_time": "28:10.5"
+  },
+  {
+    "place": 323,
+    "bib": 519,
+    "name": "James Yokoyama",
+    "sex": "M",
+    "age": 48,
+    "chip_time": "28:14.12"
+  },
+  {
+    "place": 324,
+    "bib": 520,
+    "name": "Kim Yokoyama",
+    "sex": "F",
+    "age": 56,
+    "chip_time": "28:22.56"
+  },
+  {
+    "place": 325,
+    "bib": 62,
+    "name": "Loki Carney",
+    "sex": "F",
+    "age": 51,
+    "chip_time": "28:34.59"
+  },
+  {
+    "place": 326,
+    "bib": 213,
+    "name": "Cortney Joiner",
+    "sex": "F",
+    "age": 42,
+    "chip_time": "28:42.07"
+  },
+  {
+    "place": 327,
+    "bib": 18,
+    "name": "Daijerri Allen",
+    "sex": "M",
+    "age": 55,
+    "chip_time": "28:50.42"
+  },
+  {
+    "place": 328,
+    "bib": 240,
+    "name": "Kate Kye",
+    "sex": "F",
+    "age": 54,
+    "chip_time": "29:13.99"
+  },
+  {
+    "place": 329,
+    "bib": 254,
+    "name": "Susan Lash",
+    "sex": "F",
+    "age": 66,
+    "chip_time": "29:30.64"
+  },
+  {
+    "place": 330,
+    "bib": 127,
+    "name": "Anthony Escobar",
+    "sex": "M",
+    "age": 28,
+    "chip_time": "29:52.43"
+  },
+  {
+    "place": 331,
+    "bib": 184,
+    "name": "Lynda Heran",
+    "sex": "F",
+    "age": 76,
+    "chip_time": "29:53.7"
+  },
+  {
+    "place": 332,
+    "bib": 505,
+    "name": "Amy West",
+    "sex": "F",
+    "age": 57,
+    "chip_time": "30:03.02"
+  },
+  {
+    "place": 333,
+    "bib": 158,
+    "name": "Guadalupe Gomez",
+    "sex": "M",
+    "age": 41,
+    "chip_time": "30:07.22"
+  },
+  {
+    "place": 334,
+    "bib": 163,
+    "name": "Sherry Gonzalez",
+    "sex": "F",
+    "age": 55,
+    "chip_time": "30:14.67"
+  },
+  {
+    "place": 335,
+    "bib": 249,
+    "name": "Tim Lambert",
+    "sex": "M",
+    "age": 50,
+    "chip_time": "30:18.12"
+  },
+  {
+    "place": 336,
+    "bib": 278,
+    "name": "Minerva Lotfe",
+    "sex": "F",
+    "age": 50,
+    "chip_time": "30:22.67"
+  },
+  {
+    "place": 337,
+    "bib": 515,
+    "name": "Lisa Winger",
+    "sex": "F",
+    "age": 57,
+    "chip_time": "30:23.4"
+  },
+  {
+    "place": 338,
+    "bib": 467,
+    "name": "Elisabeth Summers",
+    "sex": "F",
+    "age": 39,
+    "chip_time": "30:28.64"
+  },
+  {
+    "place": 339,
+    "bib": 352,
+    "name": "Frank Parze",
+    "sex": "M",
+    "age": 43,
+    "chip_time": "30:33.43"
+  },
+  {
+    "place": 340,
+    "bib": 400,
+    "name": "Jason Rodriguez",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "30:35.21"
+  },
+  {
+    "place": 341,
+    "bib": 83,
+    "name": "Jae Chung",
+    "sex": "M",
+    "age": 54,
+    "chip_time": "30:35.23"
+  },
+  {
+    "place": 342,
+    "bib": 61,
+    "name": "Rosemary Cario",
+    "sex": "F",
+    "age": 53,
+    "chip_time": "30:35.23"
+  },
+  {
+    "place": 343,
+    "bib": 183,
+    "name": "P Danielle Henry",
+    "sex": "F",
+    "age": 47,
+    "chip_time": "30:35.67"
+  },
+  {
+    "place": 344,
+    "bib": 195,
+    "name": "Sabrina Hood",
+    "sex": "F",
+    "age": 51,
+    "chip_time": "30:35.83"
+  },
+  {
+    "place": 345,
+    "bib": 54,
+    "name": "Connie Bullock",
+    "sex": "F",
+    "age": 83,
+    "chip_time": "30:41.34"
+  },
+  {
+    "place": 346,
+    "bib": 466,
+    "name": "Jeff Stein",
+    "sex": "M",
+    "age": 62,
+    "chip_time": "30:45.96"
+  },
+  {
+    "place": 347,
+    "bib": 395,
+    "name": "Melinda Risolo",
+    "sex": "F",
+    "age": 70,
+    "chip_time": "30:46.14"
+  },
+  {
+    "place": 348,
+    "bib": 120,
+    "name": "Katya Duft",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "31:07.66"
+  },
+  {
+    "place": 349,
+    "bib": 174,
+    "name": "Dorothy Halstead",
+    "sex": "F",
+    "age": 48,
+    "chip_time": "31:07.91"
+  },
+  {
+    "place": 350,
+    "bib": 35,
+    "name": "Gwendelyn Bates",
+    "sex": "F",
+    "age": 28,
+    "chip_time": "31:08.33"
+  },
+  {
+    "place": 351,
+    "bib": 175,
+    "name": "Aaron Halverson",
+    "sex": "M",
+    "age": 45,
+    "chip_time": "31:14.01"
+  },
+  {
+    "place": 352,
+    "bib": 177,
+    "name": "Farid Hamedy",
+    "sex": "M",
+    "age": 66,
+    "chip_time": "31:22.74"
+  },
+  {
+    "place": 353,
+    "bib": 557,
+    "name": "Elsa Arellanes",
+    "sex": "F",
+    "age": 55,
+    "chip_time": "31:30.09"
+  },
+  {
+    "place": 354,
+    "bib": 484,
+    "name": "Jt Torres",
+    "sex": "M",
+    "age": 35,
+    "chip_time": "31:37.25"
+  },
+  {
+    "place": 355,
+    "bib": 510,
+    "name": "Petricia Wijono",
+    "sex": "F",
+    "age": 47,
+    "chip_time": "31:46.22"
+  },
+  {
+    "place": 356,
+    "bib": 501,
+    "name": "Joe Villa",
+    "sex": "M",
+    "age": 52,
+    "chip_time": "31:48.41"
+  },
+  {
+    "place": 357,
+    "bib": 306,
+    "name": "Michael Michael A Martinez",
+    "sex": "M",
+    "age": 59,
+    "chip_time": "32:05.45"
+  },
+  {
+    "place": 358,
+    "bib": 344,
+    "name": "Doris Osorio",
+    "sex": "F",
+    "age": 52,
+    "chip_time": "32:07.24"
+  },
+  {
+    "place": 359,
+    "bib": 429,
+    "name": "Alexa Sarkissian",
+    "sex": "F",
+    "age": 36,
+    "chip_time": "32:24.39"
+  },
+  {
+    "place": 360,
+    "bib": 38,
+    "name": "Janet Benitez Bodeutsch",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "32:24.61"
+  },
+  {
+    "place": 361,
+    "bib": 376,
+    "name": "James Quirarte",
+    "sex": "M",
+    "age": 59,
+    "chip_time": "32:45.96"
+  },
+  {
+    "place": 362,
+    "bib": 123,
+    "name": "Terry Edwards",
+    "sex": "M",
+    "age": 65,
+    "chip_time": "32:59.66"
+  },
+  {
+    "place": 363,
+    "bib": 166,
+    "name": "Daniel Grecian",
+    "sex": "M",
+    "age": 70,
+    "chip_time": "32:59.78"
+  },
+  {
+    "place": 364,
+    "bib": 292,
+    "name": "Gloria Martinez",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "33:00.97"
+  },
+  {
+    "place": 365,
+    "bib": 377,
+    "name": "James Ramirez",
+    "sex": "M",
+    "age": 41,
+    "chip_time": "33:01.07"
+  },
+  {
+    "place": 366,
+    "bib": 459,
+    "name": "Jennifer Soto",
+    "sex": "F",
+    "age": 45,
+    "chip_time": "33:02.8"
+  },
+  {
+    "place": 367,
+    "bib": 654,
+    "name": "Davina Garcia",
+    "sex": "F",
+    "age": null,
+    "chip_time": "33:11.28"
+  },
+  {
+    "place": 368,
+    "bib": 656,
+    "name": "Samantha Espinoza",
+    "sex": "F",
+    "age": null,
+    "chip_time": "33:14.17"
+  },
+  {
+    "place": 369,
+    "bib": 653,
+    "name": "Nicole McBain",
+    "sex": "F",
+    "age": null,
+    "chip_time": "33:16.53"
+  },
+  {
+    "place": 370,
+    "bib": 534,
+    "name": "Gopi Rangan",
+    "sex": "M",
+    "age": 34,
+    "chip_time": "33:41.7"
+  },
+  {
+    "place": 371,
+    "bib": 493,
+    "name": "Charlie Vanisi",
+    "sex": "M",
+    "age": 43,
+    "chip_time": "33:43.33"
+  },
+  {
+    "place": 372,
+    "bib": 173,
+    "name": "Christopher Hadersbeck",
+    "sex": "M",
+    "age": 49,
+    "chip_time": "33:43.71"
+  },
+  {
+    "place": 373,
+    "bib": 95,
+    "name": "Florence Dabney",
+    "sex": "F",
+    "age": 67,
+    "chip_time": "33:47.65"
+  },
+  {
+    "place": 374,
+    "bib": 435,
+    "name": "Paul Senior",
+    "sex": "M",
+    "age": 81,
+    "chip_time": "33:53.03"
+  },
+  {
+    "place": 375,
+    "bib": 29,
+    "name": "Ramona Azad",
+    "sex": "F",
+    "age": 31,
+    "chip_time": "34:12.04"
+  },
+  {
+    "place": 376,
+    "bib": 182,
+    "name": "Robert Hennon",
+    "sex": "M",
+    "age": 68,
+    "chip_time": "34:20.55"
+  },
+  {
+    "place": 377,
+    "bib": 234,
+    "name": "Devin Koresh",
+    "sex": "F",
+    "age": 17,
+    "chip_time": "34:28.7"
+  },
+  {
+    "place": 378,
+    "bib": 312,
+    "name": "Ed Mofrad",
+    "sex": "M",
+    "age": 63,
+    "chip_time": "34:33.37"
+  },
+  {
+    "place": 379,
+    "bib": 148,
+    "name": "Carmella Galli",
+    "sex": "F",
+    "age": 68,
+    "chip_time": "34:35.5"
+  },
+  {
+    "place": 380,
+    "bib": 41,
+    "name": "Beth Billett",
+    "sex": "F",
+    "age": 53,
+    "chip_time": "34:58.91"
+  },
+  {
+    "place": 381,
+    "bib": 581,
+    "name": "Kenya Champion",
+    "sex": null,
+    "age": 54,
+    "chip_time": "35:07.12"
+  },
+  {
+    "place": 382,
+    "bib": 9,
+    "name": "Judy Weinstein",
+    "sex": "F",
+    "age": 67,
+    "chip_time": "35:40.59"
+  },
+  {
+    "place": 383,
+    "bib": 10,
+    "name": "Tina Bloomingdale",
+    "sex": "F",
+    "age": 44,
+    "chip_time": "35:52.09"
+  },
+  {
+    "place": 384,
+    "bib": 462,
+    "name": "Megan Spring",
+    "sex": "F",
+    "age": 56,
+    "chip_time": "36:00.47"
+  },
+  {
+    "place": 385,
+    "bib": 50,
+    "name": "Michelle Brantley",
+    "sex": "F",
+    "age": 55,
+    "chip_time": "36:09.36"
+  },
+  {
+    "place": 386,
+    "bib": 141,
+    "name": "Anil Foreman",
+    "sex": "F",
+    "age": 42,
+    "chip_time": "36:19.86"
+  },
+  {
+    "place": 387,
+    "bib": 329,
+    "name": "Stan Nakaso",
+    "sex": "M",
+    "age": 68,
+    "chip_time": "37:28.86"
+  },
+  {
+    "place": 388,
+    "bib": 390,
+    "name": "Meredith Rhodes",
+    "sex": "F",
+    "age": 50,
+    "chip_time": "37:32.86"
+  },
+  {
+    "place": 389,
+    "bib": 30,
+    "name": "Kim Bagby",
+    "sex": "F",
+    "age": 62,
+    "chip_time": "37:44.75"
+  },
+  {
+    "place": 390,
+    "bib": 651,
+    "name": "Nayar Brera",
+    "sex": "M",
+    "age": null,
+    "chip_time": "38:15.41"
+  },
+  {
+    "place": 391,
+    "bib": 21,
+    "name": "Alec Amaton",
+    "sex": "M",
+    "age": 47,
+    "chip_time": "38:24.31"
+  },
+  {
+    "place": 392,
+    "bib": 414,
+    "name": "Vickie Rush",
+    "sex": "F",
+    "age": 50,
+    "chip_time": "39:02.21"
+  },
+  {
+    "place": 393,
+    "bib": 440,
+    "name": "Heather Shreve",
+    "sex": "F",
+    "age": 44,
+    "chip_time": "39:30.59"
+  },
+  {
+    "place": 394,
+    "bib": 196,
+    "name": "Randy Howie",
+    "sex": "M",
+    "age": 62,
+    "chip_time": "39:45.49"
+  },
+  {
+    "place": 395,
+    "bib": 208,
+    "name": "Nicole Jacquemin",
+    "sex": "F",
+    "age": 62,
+    "chip_time": "39:47.06"
+  },
+  {
+    "place": 396,
+    "bib": 288,
+    "name": "Natalie Marquez",
+    "sex": "F",
+    "age": 47,
+    "chip_time": "40:13.05"
+  },
+  {
+    "place": 397,
+    "bib": 225,
+    "name": "Penjalee Kennedy",
+    "sex": "F",
+    "age": 61,
+    "chip_time": "40:16.43"
+  },
+  {
+    "place": 398,
+    "bib": 257,
+    "name": "Andrew Lee",
+    "sex": "M",
+    "age": 36,
+    "chip_time": "40:19.02"
+  },
+  {
+    "place": 399,
+    "bib": 368,
+    "name": "Durressa Powers",
+    "sex": "F",
+    "age": 55,
+    "chip_time": "40:52.66"
+  },
+  {
+    "place": 400,
+    "bib": 570,
+    "name": "Asia Jackson",
+    "sex": null,
+    "age": 35,
+    "chip_time": "41:07.33"
+  },
+  {
+    "place": 401,
+    "bib": 2,
+    "name": "Robb Korinke",
+    "sex": "M",
+    "age": 46,
+    "chip_time": "41:35.78"
+  },
+  {
+    "place": 402,
+    "bib": 403,
+    "name": "Sandra Rodriguez",
+    "sex": "F",
+    "age": 51,
+    "chip_time": "42:04.48"
+  },
+  {
+    "place": 403,
+    "bib": 108,
+    "name": "Andrea De La Rosa",
+    "sex": "F",
+    "age": 32,
+    "chip_time": "42:24.81"
+  },
+  {
+    "place": 404,
+    "bib": 396,
+    "name": "Kimberly Ritter",
+    "sex": "F",
+    "age": 41,
+    "chip_time": "42:28.6"
+  },
+  {
+    "place": 405,
+    "bib": 212,
+    "name": "Donna Johnston",
+    "sex": "F",
+    "age": 65,
+    "chip_time": "42:34.17"
+  },
+  {
+    "place": 406,
+    "bib": 555,
+    "name": "Juan Barrientos",
+    "sex": "M",
+    "age": 36,
+    "chip_time": "42:47.18"
+  },
+  {
+    "place": 407,
+    "bib": 25,
+    "name": "Jannet Armas",
+    "sex": "F",
+    "age": 35,
+    "chip_time": "43:07.48"
+  },
+  {
+    "place": 408,
+    "bib": 413,
+    "name": "Maria Rosinski",
+    "sex": "F",
+    "age": 43,
+    "chip_time": "43:11.65"
+  },
+  {
+    "place": 409,
+    "bib": 529,
+    "name": "Theodore Zuniga",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "44:59.49"
+  },
+  {
+    "place": 410,
+    "bib": 531,
+    "name": "Hanna Ko",
+    "sex": "F",
+    "age": 36,
+    "chip_time": "46:15.16"
+  },
+  {
+    "place": 411,
+    "bib": 189,
+    "name": "Nathan Hernandez",
+    "sex": "M",
+    "age": 23,
+    "chip_time": "46:29.21"
+  },
+  {
+    "place": 412,
+    "bib": 16,
+    "name": "Raquel Aldaco",
+    "sex": "F",
+    "age": 43,
+    "chip_time": "46:35.34"
+  },
+  {
+    "place": 413,
+    "bib": 259,
+    "name": "Taejun Lee",
+    "sex": "M",
+    "age": 40,
+    "chip_time": "46:35.54"
+  },
+  {
+    "place": 414,
+    "bib": 572,
+    "name": "Dena Horne",
+    "sex": null,
+    "age": 55,
+    "chip_time": "49:24.02"
+  },
+  {
+    "place": 415,
+    "bib": 321,
+    "name": "Heidi Mukamal",
+    "sex": "F",
+    "age": 53,
+    "chip_time": "49:25.42"
+  },
+  {
+    "place": 416,
+    "bib": 541,
+    "name": "Andrew Hernandez",
+    "sex": "M",
+    "age": 23,
+    "chip_time": "58:44.04"
+  },
+  {
+    "place": 417,
+    "bib": 445,
+    "name": "Rosie Sierra",
+    "sex": "F",
+    "age": 62,
+    "chip_time": "1:01:55.89"
+  },
+  {
+    "place": 418,
+    "bib": 147,
+    "name": "Gale Gajardo",
+    "sex": "F",
+    "age": 63,
+    "chip_time": "1:02:11.2"
+  },
+  {
+    "place": 419,
+    "bib": 300,
+    "name": "Kim McCutchen",
+    "sex": "F",
+    "age": 62,
+    "chip_time": "1:02:41.59"
+  },
+  {
+    "place": 420,
+    "bib": 547,
+    "name": "Danielle Osby",
+    "sex": "F",
+    "age": 55,
+    "chip_time": "1:12:21.93"
+  },
+  {
+    "place": 421,
+    "bib": 46,
+    "name": "ROBB Bolton",
+    "sex": "M",
+    "age": 55,
+    "chip_time": "1:19:16.94"
+  },
+  {
+    "place": 422,
+    "bib": 430,
+    "name": "Giselle Sarkissian",
+    "sex": "F",
+    "age": 39,
+    "chip_time": "1:25:28.6"
+  }
+]
