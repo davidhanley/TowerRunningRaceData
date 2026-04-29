@@ -1,0 +1,2404 @@
+{"date": "2026-4-18", "race-name": "2026 FFA San Fran", "source": "Ready, Set... Time!", "race-points": 50}
+
+[
+  {
+    "place": 1,
+    "bib": 45,
+    "name": "Fernando Carrentildeo",
+    "sex": "M",
+    "age": 37,
+    "chip_time": "8:51.11"
+  },
+  {
+    "place": 2,
+    "bib": 309,
+    "name": "Mike Thomas",
+    "sex": "M",
+    "age": 28,
+    "chip_time": "9:27.48"
+  },
+  {
+    "place": 3,
+    "bib": 231,
+    "name": "Matthew Pierson",
+    "sex": "M",
+    "age": 37,
+    "chip_time": "9:57.21"
+  },
+  {
+    "place": 4,
+    "bib": 175,
+    "name": "Shanwu Lo",
+    "sex": "M",
+    "age": 28,
+    "chip_time": "10:43.67"
+  },
+  {
+    "place": 5,
+    "bib": 60,
+    "name": "Peter Clem",
+    "sex": "M",
+    "age": 59,
+    "chip_time": "10:52.41"
+  },
+  {
+    "place": 6,
+    "bib": 41,
+    "name": "Josh Brown",
+    "sex": "M",
+    "age": 26,
+    "chip_time": "10:56.9"
+  },
+  {
+    "place": 7,
+    "bib": 186,
+    "name": "Jacob Ma-Weaver",
+    "sex": "M",
+    "age": 38,
+    "chip_time": "11:05.11"
+  },
+  {
+    "place": 8,
+    "bib": 5,
+    "name": "Clare Abram",
+    "sex": "F",
+    "age": 55,
+    "chip_time": "11:13.34"
+  },
+  {
+    "place": 9,
+    "bib": 158,
+    "name": "Jason Ko",
+    "sex": "M",
+    "age": 46,
+    "chip_time": "11:15.89"
+  },
+  {
+    "place": 10,
+    "bib": 274,
+    "name": "Hitesh Sharma",
+    "sex": "M",
+    "age": 37,
+    "chip_time": "11:17.02"
+  },
+  {
+    "place": 11,
+    "bib": 272,
+    "name": "Michael Seymour",
+    "sex": "M",
+    "age": 40,
+    "chip_time": "11:18.1"
+  },
+  {
+    "place": 12,
+    "bib": 47,
+    "name": "Andrew Chan",
+    "sex": "M",
+    "age": 26,
+    "chip_time": "11:18.15"
+  },
+  {
+    "place": 13,
+    "bib": 180,
+    "name": "David Malinowski",
+    "sex": "M",
+    "age": 53,
+    "chip_time": "11:21.11"
+  },
+  {
+    "place": 14,
+    "bib": 287,
+    "name": "Eddie Smith",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "11:23.32"
+  },
+  {
+    "place": 15,
+    "bib": 72,
+    "name": "Jeff Dachenhaus",
+    "sex": "M",
+    "age": 45,
+    "chip_time": "11:32.05"
+  },
+  {
+    "place": 16,
+    "bib": 173,
+    "name": "Michael Liang",
+    "sex": "M",
+    "age": 26,
+    "chip_time": "11:33.33"
+  },
+  {
+    "place": 17,
+    "bib": 110,
+    "name": "D. Garretty",
+    "sex": "M",
+    "age": 12,
+    "chip_time": "11:33.54"
+  },
+  {
+    "place": 18,
+    "bib": 111,
+    "name": "Matthew Garretty",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "11:44.3"
+  },
+  {
+    "place": 19,
+    "bib": 207,
+    "name": "Chris Nguyen",
+    "sex": "M",
+    "age": 49,
+    "chip_time": "11:46.34"
+  },
+  {
+    "place": 20,
+    "bib": 128,
+    "name": "Frank Hauben",
+    "sex": "M",
+    "age": 45,
+    "chip_time": "11:49.65"
+  },
+  {
+    "place": 21,
+    "bib": 37,
+    "name": "Kelly Britland",
+    "sex": "F",
+    "age": 34,
+    "chip_time": "11:51.58"
+  },
+  {
+    "place": 22,
+    "bib": 174,
+    "name": "Edwin Linares",
+    "sex": "M",
+    "age": 46,
+    "chip_time": "11:53.11"
+  },
+  {
+    "place": 23,
+    "bib": 230,
+    "name": "Jeffery Phan",
+    "sex": "M",
+    "age": 32,
+    "chip_time": "11:58.14"
+  },
+  {
+    "place": 24,
+    "bib": 150,
+    "name": "Maxwell Keith",
+    "sex": "M",
+    "age": 27,
+    "chip_time": "12:01.72"
+  },
+  {
+    "place": 25,
+    "bib": 126,
+    "name": "A. Hauben",
+    "sex": "F",
+    "age": 11,
+    "chip_time": "12:04.19"
+  },
+  {
+    "place": 26,
+    "bib": 69,
+    "name": "Debra Crawford",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "12:08.88"
+  },
+  {
+    "place": 27,
+    "bib": 378,
+    "name": "Climber 378",
+    "sex": "M",
+    "age": null,
+    "chip_time": "12:09"
+  },
+  {
+    "place": 28,
+    "bib": 206,
+    "name": "A. Nguyen",
+    "sex": "F",
+    "age": 9,
+    "chip_time": "12:15.6"
+  },
+  {
+    "place": 29,
+    "bib": 297,
+    "name": "Charles Stone",
+    "sex": "M",
+    "age": 50,
+    "chip_time": "12:20.68"
+  },
+  {
+    "place": 30,
+    "bib": 98,
+    "name": "Doug Fioranelli",
+    "sex": "M",
+    "age": 49,
+    "chip_time": "12:26.91"
+  },
+  {
+    "place": 31,
+    "bib": 184,
+    "name": "Carl Martin",
+    "sex": "M",
+    "age": 36,
+    "chip_time": "12:27.5"
+  },
+  {
+    "place": 32,
+    "bib": 327,
+    "name": "Drew Wondolowski",
+    "sex": "M",
+    "age": 26,
+    "chip_time": "12:29.22"
+  },
+  {
+    "place": 33,
+    "bib": 281,
+    "name": "Jacob Shu",
+    "sex": "M",
+    "age": 14,
+    "chip_time": "12:30.19"
+  },
+  {
+    "place": 34,
+    "bib": 109,
+    "name": "A. Garretty",
+    "sex": "M",
+    "age": 8,
+    "chip_time": "12:36.7"
+  },
+  {
+    "place": 35,
+    "bib": 165,
+    "name": "Paul Larsen",
+    "sex": "M",
+    "age": 68,
+    "chip_time": "12:37.9"
+  },
+  {
+    "place": 36,
+    "bib": 152,
+    "name": "Brandon Kennedy",
+    "sex": "M",
+    "age": 38,
+    "chip_time": "12:39.12"
+  },
+  {
+    "place": 37,
+    "bib": 61,
+    "name": "Lori Clerkin",
+    "sex": "F",
+    "age": 59,
+    "chip_time": "12:39.44"
+  },
+  {
+    "place": 38,
+    "bib": 211,
+    "name": "V. Nguyen",
+    "sex": "F",
+    "age": 10,
+    "chip_time": "12:46.01"
+  },
+  {
+    "place": 39,
+    "bib": 24,
+    "name": "Don Berkheimer",
+    "sex": "M",
+    "age": 38,
+    "chip_time": "12:46.66"
+  },
+  {
+    "place": 40,
+    "bib": 177,
+    "name": "Erika Luttenegger",
+    "sex": "F",
+    "age": 48,
+    "chip_time": "12:53.03"
+  },
+  {
+    "place": 41,
+    "bib": 247,
+    "name": "Cliff Redeker",
+    "sex": "M",
+    "age": 42,
+    "chip_time": "12:58.62"
+  },
+  {
+    "place": 42,
+    "bib": 147,
+    "name": "Donna Keith",
+    "sex": "F",
+    "age": 63,
+    "chip_time": "12:59.62"
+  },
+  {
+    "place": 43,
+    "bib": 86,
+    "name": "Justinn Eddie",
+    "sex": "M",
+    "age": 36,
+    "chip_time": "13:00.58"
+  },
+  {
+    "place": 44,
+    "bib": 214,
+    "name": "Jannik Nomm",
+    "sex": "M",
+    "age": 17,
+    "chip_time": "13:00.74"
+  },
+  {
+    "place": 45,
+    "bib": 80,
+    "name": "Mark Di Giorgio",
+    "sex": "M",
+    "age": 61,
+    "chip_time": "13:04.62"
+  },
+  {
+    "place": 46,
+    "bib": 96,
+    "name": "Melanie Feng",
+    "sex": "F",
+    "age": 16,
+    "chip_time": "13:06.06"
+  },
+  {
+    "place": 47,
+    "bib": 235,
+    "name": "Allan Polley",
+    "sex": "M",
+    "age": 68,
+    "chip_time": "13:06.5"
+  },
+  {
+    "place": 48,
+    "bib": 129,
+    "name": "Nico Hausser",
+    "sex": "M",
+    "age": 25,
+    "chip_time": "13:21.73"
+  },
+  {
+    "place": 49,
+    "bib": 361,
+    "name": "Climber 361",
+    "sex": "M",
+    "age": null,
+    "chip_time": "13:22.28"
+  },
+  {
+    "place": 50,
+    "bib": 169,
+    "name": "Anthony Lee",
+    "sex": "M",
+    "age": 40,
+    "chip_time": "13:23.86"
+  },
+  {
+    "place": 51,
+    "bib": 149,
+    "name": "Jay Keith",
+    "sex": "M",
+    "age": 65,
+    "chip_time": "13:25.3"
+  },
+  {
+    "place": 52,
+    "bib": 406,
+    "name": "Samantha Castro-Miller",
+    "sex": "F",
+    "age": 28,
+    "chip_time": "13:26.27"
+  },
+  {
+    "place": 53,
+    "bib": 421,
+    "name": "Carl Artis",
+    "sex": "M",
+    "age": 30,
+    "chip_time": "13:27.45"
+  },
+  {
+    "place": 54,
+    "bib": 306,
+    "name": "Rebecca Teichmann",
+    "sex": "F",
+    "age": 42,
+    "chip_time": "13:33.13"
+  },
+  {
+    "place": 55,
+    "bib": 367,
+    "name": "Climber 367",
+    "sex": "M",
+    "age": null,
+    "chip_time": "13:40.09"
+  },
+  {
+    "place": 56,
+    "bib": 291,
+    "name": "Harold Soriano",
+    "sex": "M",
+    "age": 55,
+    "chip_time": "13:41.04"
+  },
+  {
+    "place": 57,
+    "bib": 234,
+    "name": "Daniel Platt",
+    "sex": "M",
+    "age": 52,
+    "chip_time": "13:49.02"
+  },
+  {
+    "place": 58,
+    "bib": 16,
+    "name": "Mark Ashton",
+    "sex": "M",
+    "age": 72,
+    "chip_time": "13:54.06"
+  },
+  {
+    "place": 59,
+    "bib": 39,
+    "name": "Finn Brown",
+    "sex": "M",
+    "age": 17,
+    "chip_time": "14:00.24"
+  },
+  {
+    "place": 60,
+    "bib": 303,
+    "name": "Colin Taylor",
+    "sex": "M",
+    "age": 32,
+    "chip_time": "14:02.14"
+  },
+  {
+    "place": 61,
+    "bib": 264,
+    "name": "Gautam Sarkar",
+    "sex": "M",
+    "age": 27,
+    "chip_time": "14:02.45"
+  },
+  {
+    "place": 62,
+    "bib": 155,
+    "name": "Sunmi Kim",
+    "sex": "F",
+    "age": 42,
+    "chip_time": "14:02.52"
+  },
+  {
+    "place": 63,
+    "bib": 359,
+    "name": "Climber 359",
+    "sex": "M",
+    "age": null,
+    "chip_time": "14:09.9"
+  },
+  {
+    "place": 64,
+    "bib": 312,
+    "name": "Ted Trambley",
+    "sex": "M",
+    "age": 74,
+    "chip_time": "14:10.72"
+  },
+  {
+    "place": 65,
+    "bib": 372,
+    "name": "Climber 372",
+    "sex": "M",
+    "age": null,
+    "chip_time": "14:13.01"
+  },
+  {
+    "place": 66,
+    "bib": 140,
+    "name": "Ben Jordan",
+    "sex": "M",
+    "age": 47,
+    "chip_time": "14:14.99"
+  },
+  {
+    "place": 67,
+    "bib": 103,
+    "name": "Peter Francis",
+    "sex": "M",
+    "age": 78,
+    "chip_time": "14:16.38"
+  },
+  {
+    "place": 68,
+    "bib": 279,
+    "name": "Ken Shitamoto",
+    "sex": "M",
+    "age": 56,
+    "chip_time": "14:17.26"
+  },
+  {
+    "place": 69,
+    "bib": 93,
+    "name": "Erica Faitek",
+    "sex": "F",
+    "age": 45,
+    "chip_time": "14:18.02"
+  },
+  {
+    "place": 70,
+    "bib": 208,
+    "name": "Jeremy Nguyen",
+    "sex": "M",
+    "age": 36,
+    "chip_time": "14:20.04"
+  },
+  {
+    "place": 71,
+    "bib": 25,
+    "name": "Adam Bester",
+    "sex": "M",
+    "age": 65,
+    "chip_time": "14:22.11"
+  },
+  {
+    "place": 72,
+    "bib": 326,
+    "name": "Alan Williams",
+    "sex": "M",
+    "age": 45,
+    "chip_time": "14:23.73"
+  },
+  {
+    "place": 73,
+    "bib": 170,
+    "name": "E. Lee",
+    "sex": "F",
+    "age": 8,
+    "chip_time": "14:27.7"
+  },
+  {
+    "place": 74,
+    "bib": 239,
+    "name": "Raymond Quan",
+    "sex": "M",
+    "age": 35,
+    "chip_time": "14:29.49"
+  },
+  {
+    "place": 75,
+    "bib": 118,
+    "name": "Jeremy Goodland",
+    "sex": "M",
+    "age": 43,
+    "chip_time": "14:29.77"
+  },
+  {
+    "place": 76,
+    "bib": 6,
+    "name": "Brian Adams",
+    "sex": "M",
+    "age": 64,
+    "chip_time": "14:38.13"
+  },
+  {
+    "place": 77,
+    "bib": 71,
+    "name": "Michelle Cuppens",
+    "sex": "F",
+    "age": 36,
+    "chip_time": "14:39.71"
+  },
+  {
+    "place": 78,
+    "bib": 10,
+    "name": "Aleksey Anfimov",
+    "sex": "M",
+    "age": 16,
+    "chip_time": "14:40.28"
+  },
+  {
+    "place": 79,
+    "bib": 127,
+    "name": "E. Hauben",
+    "sex": "F",
+    "age": 8,
+    "chip_time": "14:41.68"
+  },
+  {
+    "place": 80,
+    "bib": 88,
+    "name": "Gary Eldridge",
+    "sex": "M",
+    "age": 64,
+    "chip_time": "14:42.81"
+  },
+  {
+    "place": 81,
+    "bib": 95,
+    "name": "Fernando Felix",
+    "sex": "M",
+    "age": 32,
+    "chip_time": "14:43.37"
+  },
+  {
+    "place": 82,
+    "bib": 288,
+    "name": "Monica Smolak",
+    "sex": "F",
+    "age": 44,
+    "chip_time": "14:44.9"
+  },
+  {
+    "place": 83,
+    "bib": 27,
+    "name": "Heath Birkendahl",
+    "sex": "M",
+    "age": 53,
+    "chip_time": "14:47.01"
+  },
+  {
+    "place": 84,
+    "bib": 407,
+    "name": "Suchaya Osatis",
+    "sex": "F",
+    "age": 35,
+    "chip_time": "14:48.36"
+  },
+  {
+    "place": 85,
+    "bib": 348,
+    "name": "Climber 348",
+    "sex": "M",
+    "age": null,
+    "chip_time": "14:51.51"
+  },
+  {
+    "place": 86,
+    "bib": 417,
+    "name": "Brenden Englert",
+    "sex": "M",
+    "age": null,
+    "chip_time": "14:53.36"
+  },
+  {
+    "place": 87,
+    "bib": 375,
+    "name": "Climber 375",
+    "sex": "M",
+    "age": null,
+    "chip_time": "14:55.53"
+  },
+  {
+    "place": 88,
+    "bib": 273,
+    "name": "Janki Shah",
+    "sex": "F",
+    "age": 36,
+    "chip_time": "14:55.91"
+  },
+  {
+    "place": 89,
+    "bib": 418,
+    "name": "Elaine Goss",
+    "sex": "F",
+    "age": null,
+    "chip_time": "14:55.94"
+  },
+  {
+    "place": 90,
+    "bib": 325,
+    "name": "Orlando White",
+    "sex": "M",
+    "age": 40,
+    "chip_time": "15:04.69"
+  },
+  {
+    "place": 91,
+    "bib": 355,
+    "name": "Climber 355",
+    "sex": "M",
+    "age": null,
+    "chip_time": "15:04.71"
+  },
+  {
+    "place": 92,
+    "bib": 171,
+    "name": "James Lee",
+    "sex": "M",
+    "age": 55,
+    "chip_time": "15:05.6"
+  },
+  {
+    "place": 93,
+    "bib": 376,
+    "name": "Climber 376",
+    "sex": "M",
+    "age": null,
+    "chip_time": "15:07.13"
+  },
+  {
+    "place": 94,
+    "bib": 416,
+    "name": "Dash Crispen",
+    "sex": "M",
+    "age": null,
+    "chip_time": "15:07.56"
+  },
+  {
+    "place": 95,
+    "bib": 223,
+    "name": "Corey Pang",
+    "sex": "M",
+    "age": 45,
+    "chip_time": "15:08.34"
+  },
+  {
+    "place": 96,
+    "bib": 415,
+    "name": "Anthony Duclum",
+    "sex": "M",
+    "age": null,
+    "chip_time": "15:09.7"
+  },
+  {
+    "place": 97,
+    "bib": 50,
+    "name": "Joshua Chang",
+    "sex": "M",
+    "age": 44,
+    "chip_time": "15:18.81"
+  },
+  {
+    "place": 98,
+    "bib": 63,
+    "name": "Amy Compani",
+    "sex": "F",
+    "age": 41,
+    "chip_time": "15:20.31"
+  },
+  {
+    "place": 99,
+    "bib": 320,
+    "name": "Steven Voorhis",
+    "sex": "M",
+    "age": 56,
+    "chip_time": "15:21.27"
+  },
+  {
+    "place": 100,
+    "bib": 258,
+    "name": "Barry Rowland",
+    "sex": "M",
+    "age": 59,
+    "chip_time": "15:24.45"
+  },
+  {
+    "place": 101,
+    "bib": 337,
+    "name": "Emi Yoshida",
+    "sex": "F",
+    "age": 60,
+    "chip_time": "15:26.58"
+  },
+  {
+    "place": 102,
+    "bib": 311,
+    "name": "Cindy Tong",
+    "sex": "F",
+    "age": 44,
+    "chip_time": "15:29.35"
+  },
+  {
+    "place": 103,
+    "bib": 32,
+    "name": "Timothy Bohan",
+    "sex": "M",
+    "age": 71,
+    "chip_time": "15:31.59"
+  },
+  {
+    "place": 104,
+    "bib": 160,
+    "name": "Maggie La",
+    "sex": "F",
+    "age": 29,
+    "chip_time": "15:32.2"
+  },
+  {
+    "place": 105,
+    "bib": 330,
+    "name": "Sue Wood",
+    "sex": "F",
+    "age": 61,
+    "chip_time": "15:32.88"
+  },
+  {
+    "place": 106,
+    "bib": 356,
+    "name": "Climber 356",
+    "sex": "M",
+    "age": null,
+    "chip_time": "15:34.17"
+  },
+  {
+    "place": 107,
+    "bib": 317,
+    "name": "Kim Vance",
+    "sex": "F",
+    "age": 54,
+    "chip_time": "15:34.2"
+  },
+  {
+    "place": 108,
+    "bib": 217,
+    "name": "Eiki Or",
+    "sex": "M",
+    "age": 44,
+    "chip_time": "15:34.38"
+  },
+  {
+    "place": 109,
+    "bib": 97,
+    "name": "Nicole Filippelli",
+    "sex": "F",
+    "age": 40,
+    "chip_time": "15:36.23"
+  },
+  {
+    "place": 110,
+    "bib": 278,
+    "name": "James Shibley",
+    "sex": "M",
+    "age": 70,
+    "chip_time": "15:36.36"
+  },
+  {
+    "place": 111,
+    "bib": 404,
+    "name": "Kate Ingles",
+    "sex": "F",
+    "age": null,
+    "chip_time": "15:36.53"
+  },
+  {
+    "place": 112,
+    "bib": 81,
+    "name": "Kelly Dittrich",
+    "sex": "F",
+    "age": 54,
+    "chip_time": "15:38.7"
+  },
+  {
+    "place": 113,
+    "bib": 179,
+    "name": "Gaby Makstman",
+    "sex": "F",
+    "age": 43,
+    "chip_time": "15:38.77"
+  },
+  {
+    "place": 114,
+    "bib": 31,
+    "name": "Louis Bohan",
+    "sex": "M",
+    "age": 45,
+    "chip_time": "15:38.9"
+  },
+  {
+    "place": 115,
+    "bib": 66,
+    "name": "Eric Cooper",
+    "sex": "M",
+    "age": 59,
+    "chip_time": "15:47.72"
+  },
+  {
+    "place": 116,
+    "bib": 364,
+    "name": "Climber 364",
+    "sex": "M",
+    "age": null,
+    "chip_time": "15:51.93"
+  },
+  {
+    "place": 117,
+    "bib": 100,
+    "name": "Brennan Fong",
+    "sex": "M",
+    "age": 44,
+    "chip_time": "16:08.43"
+  },
+  {
+    "place": 118,
+    "bib": 253,
+    "name": "Andres Rivera",
+    "sex": "M",
+    "age": 30,
+    "chip_time": "16:14.12"
+  },
+  {
+    "place": 119,
+    "bib": 178,
+    "name": "Christine Magayanes",
+    "sex": "F",
+    "age": 53,
+    "chip_time": "16:14.8"
+  },
+  {
+    "place": 120,
+    "bib": 323,
+    "name": "Alex Weiner",
+    "sex": "M",
+    "age": 34,
+    "chip_time": "16:15.48"
+  },
+  {
+    "place": 121,
+    "bib": 366,
+    "name": "Unknown Partic. 366",
+    "sex": "M",
+    "age": null,
+    "chip_time": "16:16.66"
+  },
+  {
+    "place": 122,
+    "bib": 216,
+    "name": "Mei Kuen Ong",
+    "sex": "F",
+    "age": 43,
+    "chip_time": "16:24.21"
+  },
+  {
+    "place": 123,
+    "bib": 424,
+    "name": "Climber 424",
+    "sex": "M",
+    "age": null,
+    "chip_time": "16:25.05"
+  },
+  {
+    "place": 124,
+    "bib": 202,
+    "name": "Christine Mount",
+    "sex": "F",
+    "age": 54,
+    "chip_time": "16:25.62"
+  },
+  {
+    "place": 125,
+    "bib": 59,
+    "name": "Mark Clem",
+    "sex": "M",
+    "age": 63,
+    "chip_time": "16:27.81"
+  },
+  {
+    "place": 126,
+    "bib": 213,
+    "name": "Teresa Nobori",
+    "sex": "F",
+    "age": 48,
+    "chip_time": "16:27.92"
+  },
+  {
+    "place": 127,
+    "bib": 19,
+    "name": "Vicky B",
+    "sex": "F",
+    "age": 43,
+    "chip_time": "16:34.02"
+  },
+  {
+    "place": 128,
+    "bib": 23,
+    "name": "Will Bentley",
+    "sex": "M",
+    "age": 26,
+    "chip_time": "16:34.99"
+  },
+  {
+    "place": 129,
+    "bib": 133,
+    "name": "Juan Herrera",
+    "sex": "M",
+    "age": 44,
+    "chip_time": "16:38.42"
+  },
+  {
+    "place": 130,
+    "bib": 237,
+    "name": "Susan Qian",
+    "sex": "F",
+    "age": 26,
+    "chip_time": "16:42.86"
+  },
+  {
+    "place": 131,
+    "bib": 254,
+    "name": "Gerardo Rivera",
+    "sex": "M",
+    "age": 55,
+    "chip_time": "16:45.41"
+  },
+  {
+    "place": 132,
+    "bib": 131,
+    "name": "Art Hernandez",
+    "sex": "F",
+    "age": 40,
+    "chip_time": "16:49.27"
+  },
+  {
+    "place": 133,
+    "bib": 411,
+    "name": "Alexey A",
+    "sex": "F",
+    "age": null,
+    "chip_time": "16:50"
+  },
+  {
+    "place": 134,
+    "bib": 277,
+    "name": "Riya Sheth",
+    "sex": "F",
+    "age": 26,
+    "chip_time": "16:53.09"
+  },
+  {
+    "place": 135,
+    "bib": 11,
+    "name": "Alysa Anfimov",
+    "sex": "F",
+    "age": 13,
+    "chip_time": "16:58.56"
+  },
+  {
+    "place": 136,
+    "bib": 304,
+    "name": "Diane Taylor",
+    "sex": "F",
+    "age": 64,
+    "chip_time": "17:03.45"
+  },
+  {
+    "place": 137,
+    "bib": 117,
+    "name": "Reza Golchini",
+    "sex": "M",
+    "age": 46,
+    "chip_time": "17:04.53"
+  },
+  {
+    "place": 138,
+    "bib": 280,
+    "name": "Alexander Shoykhet",
+    "sex": "M",
+    "age": 44,
+    "chip_time": "17:07.53"
+  },
+  {
+    "place": 139,
+    "bib": 379,
+    "name": "Climber 379",
+    "sex": "M",
+    "age": null,
+    "chip_time": "17:08.27"
+  },
+  {
+    "place": 140,
+    "bib": 87,
+    "name": "Robert Edington",
+    "sex": "M",
+    "age": 64,
+    "chip_time": "17:09.77"
+  },
+  {
+    "place": 141,
+    "bib": 78,
+    "name": "Bill Denler",
+    "sex": "M",
+    "age": 58,
+    "chip_time": "17:12.37"
+  },
+  {
+    "place": 142,
+    "bib": 26,
+    "name": "Darrell Biggs Jr",
+    "sex": "M",
+    "age": 47,
+    "chip_time": "17:13.71"
+  },
+  {
+    "place": 143,
+    "bib": 244,
+    "name": "Steve Ramsey",
+    "sex": "M",
+    "age": 59,
+    "chip_time": "17:13.92"
+  },
+  {
+    "place": 144,
+    "bib": 374,
+    "name": "Climber 374",
+    "sex": "M",
+    "age": null,
+    "chip_time": "17:15.23"
+  },
+  {
+    "place": 145,
+    "bib": 49,
+    "name": "Laurence Chan",
+    "sex": "M",
+    "age": 23,
+    "chip_time": "17:18.29"
+  },
+  {
+    "place": 146,
+    "bib": 360,
+    "name": "Climber 360",
+    "sex": "M",
+    "age": null,
+    "chip_time": "17:21.49"
+  },
+  {
+    "place": 147,
+    "bib": 120,
+    "name": "Lucy Grezdo",
+    "sex": "F",
+    "age": 57,
+    "chip_time": "17:22.06"
+  },
+  {
+    "place": 148,
+    "bib": 358,
+    "name": "Climber 358",
+    "sex": "M",
+    "age": null,
+    "chip_time": "17:24.04"
+  },
+  {
+    "place": 149,
+    "bib": 432,
+    "name": "James Phan",
+    "sex": "M",
+    "age": null,
+    "chip_time": "17:24.11"
+  },
+  {
+    "place": 150,
+    "bib": 283,
+    "name": "O. Silva",
+    "sex": "M",
+    "age": 12,
+    "chip_time": "17:24.69"
+  },
+  {
+    "place": 151,
+    "bib": 108,
+    "name": "Mikaela Garcia",
+    "sex": "F",
+    "age": 38,
+    "chip_time": "17:24.79"
+  },
+  {
+    "place": 152,
+    "bib": 172,
+    "name": "Melisse Leung-Ho",
+    "sex": "F",
+    "age": 46,
+    "chip_time": "17:27.86"
+  },
+  {
+    "place": 153,
+    "bib": 29,
+    "name": "John Blaney",
+    "sex": "M",
+    "age": 59,
+    "chip_time": "17:35.36"
+  },
+  {
+    "place": 154,
+    "bib": 159,
+    "name": "Sylvia Koh",
+    "sex": "F",
+    "age": 40,
+    "chip_time": "17:36.04"
+  },
+  {
+    "place": 155,
+    "bib": 321,
+    "name": "Alexandra Wagner",
+    "sex": "F",
+    "age": 25,
+    "chip_time": "17:37.73"
+  },
+  {
+    "place": 156,
+    "bib": 292,
+    "name": "Brenda Soundara",
+    "sex": "F",
+    "age": 27,
+    "chip_time": "17:38.77"
+  },
+  {
+    "place": 157,
+    "bib": 261,
+    "name": "Claire Salih",
+    "sex": "F",
+    "age": 50,
+    "chip_time": "17:38.91"
+  },
+  {
+    "place": 158,
+    "bib": 56,
+    "name": "Victoria Chu",
+    "sex": "F",
+    "age": 34,
+    "chip_time": "17:38.96"
+  },
+  {
+    "place": 159,
+    "bib": 275,
+    "name": "Shirley Shean",
+    "sex": "F",
+    "age": 79,
+    "chip_time": "17:44.49"
+  },
+  {
+    "place": 160,
+    "bib": 75,
+    "name": "Hoda Darwish",
+    "sex": "F",
+    "age": 38,
+    "chip_time": "17:47.11"
+  },
+  {
+    "place": 161,
+    "bib": 65,
+    "name": "John Cooney",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "17:48.21"
+  },
+  {
+    "place": 162,
+    "bib": 301,
+    "name": "Sean Talley",
+    "sex": "M",
+    "age": 41,
+    "chip_time": "17:48.84"
+  },
+  {
+    "place": 163,
+    "bib": 121,
+    "name": "Gabriela Guerrini",
+    "sex": "F",
+    "age": 56,
+    "chip_time": "17:58.83"
+  },
+  {
+    "place": 164,
+    "bib": 260,
+    "name": "Chloe Salih",
+    "sex": "F",
+    "age": 16,
+    "chip_time": "17:59.02"
+  },
+  {
+    "place": 165,
+    "bib": 265,
+    "name": "Emily Sauls",
+    "sex": "F",
+    "age": 37,
+    "chip_time": "18:02.31"
+  },
+  {
+    "place": 166,
+    "bib": 429,
+    "name": "Keith Su",
+    "sex": "M",
+    "age": null,
+    "chip_time": "18:07.56"
+  },
+  {
+    "place": 167,
+    "bib": 343,
+    "name": "Climber 343",
+    "sex": "M",
+    "age": null,
+    "chip_time": "18:18.97"
+  },
+  {
+    "place": 168,
+    "bib": 142,
+    "name": "Noel Jucaban Sr",
+    "sex": "M",
+    "age": 73,
+    "chip_time": "18:26.97"
+  },
+  {
+    "place": 169,
+    "bib": 268,
+    "name": "Lois Schunk",
+    "sex": "F",
+    "age": 74,
+    "chip_time": "18:32.14"
+  },
+  {
+    "place": 170,
+    "bib": 106,
+    "name": "Matthew Friedman",
+    "sex": "M",
+    "age": 53,
+    "chip_time": "18:33.18"
+  },
+  {
+    "place": 171,
+    "bib": 345,
+    "name": "Climber 345",
+    "sex": "M",
+    "age": null,
+    "chip_time": "18:36.35"
+  },
+  {
+    "place": 172,
+    "bib": 52,
+    "name": "Jonathan Chapman",
+    "sex": "M",
+    "age": 38,
+    "chip_time": "18:49.86"
+  },
+  {
+    "place": 173,
+    "bib": 248,
+    "name": "Nicholas Redington",
+    "sex": "M",
+    "age": 40,
+    "chip_time": "18:51.44"
+  },
+  {
+    "place": 174,
+    "bib": 318,
+    "name": "Laurens Vaneveld",
+    "sex": "M",
+    "age": 69,
+    "chip_time": "19:01.37"
+  },
+  {
+    "place": 175,
+    "bib": 426,
+    "name": "Sammy Khalafallah",
+    "sex": "F",
+    "age": null,
+    "chip_time": "19:04.28"
+  },
+  {
+    "place": 176,
+    "bib": 220,
+    "name": "Jonathan Ozol",
+    "sex": "M",
+    "age": 49,
+    "chip_time": "19:07.94"
+  },
+  {
+    "place": 177,
+    "bib": 369,
+    "name": "Climber 369",
+    "sex": "M",
+    "age": null,
+    "chip_time": "19:10.74"
+  },
+  {
+    "place": 178,
+    "bib": 224,
+    "name": "Antonio Partida",
+    "sex": "M",
+    "age": 51,
+    "chip_time": "19:12.45"
+  },
+  {
+    "place": 179,
+    "bib": 68,
+    "name": "Rajinder Coureas",
+    "sex": "F",
+    "age": 53,
+    "chip_time": "19:18.8"
+  },
+  {
+    "place": 180,
+    "bib": 427,
+    "name": "M. Elhashimi Khalifa",
+    "sex": "M",
+    "age": 33,
+    "chip_time": "19:19.21"
+  },
+  {
+    "place": 181,
+    "bib": 67,
+    "name": "Miguel Cortez",
+    "sex": "M",
+    "age": 45,
+    "chip_time": "19:21.71"
+  },
+  {
+    "place": 182,
+    "bib": 315,
+    "name": "Debi Tsan",
+    "sex": "F",
+    "age": 55,
+    "chip_time": "19:22.9"
+  },
+  {
+    "place": 183,
+    "bib": 332,
+    "name": "Berry Worden",
+    "sex": "M",
+    "age": 50,
+    "chip_time": "19:30.69"
+  },
+  {
+    "place": 184,
+    "bib": 112,
+    "name": "Cassandra Gee",
+    "sex": "F",
+    "age": 51,
+    "chip_time": "19:36.77"
+  },
+  {
+    "place": 185,
+    "bib": 414,
+    "name": "Kaithyn Smith",
+    "sex": "F",
+    "age": null,
+    "chip_time": "19:36.93"
+  },
+  {
+    "place": 186,
+    "bib": 410,
+    "name": "Alicia Allison",
+    "sex": "F",
+    "age": 38,
+    "chip_time": "19:37.33"
+  },
+  {
+    "place": 187,
+    "bib": 209,
+    "name": "Karen Nguyen",
+    "sex": "F",
+    "age": 52,
+    "chip_time": "19:42.18"
+  },
+  {
+    "place": 188,
+    "bib": 42,
+    "name": "Graham Caplan",
+    "sex": "M",
+    "age": 32,
+    "chip_time": "19:45.57"
+  },
+  {
+    "place": 189,
+    "bib": 181,
+    "name": "Saravanan Manivasagam",
+    "sex": "M",
+    "age": 43,
+    "chip_time": "19:51.52"
+  },
+  {
+    "place": 190,
+    "bib": 187,
+    "name": "Gioia McCarthy",
+    "sex": "F",
+    "age": 58,
+    "chip_time": "19:53.41"
+  },
+  {
+    "place": 191,
+    "bib": 8,
+    "name": "Bindu Alexander",
+    "sex": "F",
+    "age": 58,
+    "chip_time": "19:57.91"
+  },
+  {
+    "place": 192,
+    "bib": 365,
+    "name": "Clilmber 365",
+    "sex": "M",
+    "age": null,
+    "chip_time": "20:00.5"
+  },
+  {
+    "place": 193,
+    "bib": 143,
+    "name": "Chris Jung",
+    "sex": "M",
+    "age": 53,
+    "chip_time": "20:07.38"
+  },
+  {
+    "place": 194,
+    "bib": 28,
+    "name": "Eileen Bissen",
+    "sex": "F",
+    "age": 45,
+    "chip_time": "20:18.48"
+  },
+  {
+    "place": 195,
+    "bib": 35,
+    "name": "Steven Branch",
+    "sex": "M",
+    "age": 43,
+    "chip_time": "20:20.5"
+  },
+  {
+    "place": 196,
+    "bib": 57,
+    "name": "A. Church",
+    "sex": "F",
+    "age": 9,
+    "chip_time": "20:25.1"
+  },
+  {
+    "place": 197,
+    "bib": 20,
+    "name": "Aparajit Bajpai",
+    "sex": "M",
+    "age": 43,
+    "chip_time": "20:26.62"
+  },
+  {
+    "place": 198,
+    "bib": 46,
+    "name": "Jason Cary",
+    "sex": "M",
+    "age": 47,
+    "chip_time": "20:31.51"
+  },
+  {
+    "place": 199,
+    "bib": 122,
+    "name": "Brandon Gumabo",
+    "sex": "M",
+    "age": 38,
+    "chip_time": "20:34.04"
+  },
+  {
+    "place": 200,
+    "bib": 156,
+    "name": "Judy Klofstad",
+    "sex": "F",
+    "age": 58,
+    "chip_time": "20:35.01"
+  },
+  {
+    "place": 201,
+    "bib": 116,
+    "name": "Jane Goh",
+    "sex": "F",
+    "age": 65,
+    "chip_time": "20:39.4"
+  },
+  {
+    "place": 202,
+    "bib": 113,
+    "name": "Kevin Gil",
+    "sex": "M",
+    "age": 40,
+    "chip_time": "20:39.52"
+  },
+  {
+    "place": 203,
+    "bib": 190,
+    "name": "Sagan McLellan",
+    "sex": "M",
+    "age": 20,
+    "chip_time": "20:40.74"
+  },
+  {
+    "place": 204,
+    "bib": 141,
+    "name": "Noel Jucaban Jr",
+    "sex": "M",
+    "age": 46,
+    "chip_time": "20:43.54"
+  },
+  {
+    "place": 205,
+    "bib": 196,
+    "name": "Anthony Miresluis",
+    "sex": "M",
+    "age": 62,
+    "chip_time": "20:54.46"
+  },
+  {
+    "place": 206,
+    "bib": 73,
+    "name": "Marian Dalere",
+    "sex": "F",
+    "age": 58,
+    "chip_time": "21:00.56"
+  },
+  {
+    "place": 207,
+    "bib": 123,
+    "name": "Erica Gutierrez",
+    "sex": "F",
+    "age": 51,
+    "chip_time": "21:15.86"
+  },
+  {
+    "place": 208,
+    "bib": 210,
+    "name": "Tiffany Nguyen",
+    "sex": "F",
+    "age": 46,
+    "chip_time": "21:22.47"
+  },
+  {
+    "place": 209,
+    "bib": 347,
+    "name": "Climber 347",
+    "sex": "M",
+    "age": null,
+    "chip_time": "21:23"
+  },
+  {
+    "place": 210,
+    "bib": 212,
+    "name": "Susan Ninichuck",
+    "sex": "F",
+    "age": 51,
+    "chip_time": "21:25.4"
+  },
+  {
+    "place": 211,
+    "bib": 203,
+    "name": "Adriana Muhawieh",
+    "sex": "F",
+    "age": 33,
+    "chip_time": "21:28.17"
+  },
+  {
+    "place": 212,
+    "bib": 105,
+    "name": "Markus Freese",
+    "sex": "M",
+    "age": 47,
+    "chip_time": "21:36.53"
+  },
+  {
+    "place": 213,
+    "bib": 90,
+    "name": "John Epperson",
+    "sex": "M",
+    "age": 67,
+    "chip_time": "22:01.59"
+  },
+  {
+    "place": 214,
+    "bib": 412,
+    "name": "Ma Teresa Paiga Rzedzian",
+    "sex": "F",
+    "age": null,
+    "chip_time": "22:03.56"
+  },
+  {
+    "place": 215,
+    "bib": 137,
+    "name": "Andrew Hughes",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "22:10.07"
+  },
+  {
+    "place": 216,
+    "bib": 163,
+    "name": "Kumaresan Lakkapuram Murugesan",
+    "sex": "M",
+    "age": 42,
+    "chip_time": "22:10.42"
+  },
+  {
+    "place": 217,
+    "bib": 368,
+    "name": "Climber 368",
+    "sex": "M",
+    "age": null,
+    "chip_time": "22:15.74"
+  },
+  {
+    "place": 218,
+    "bib": 402,
+    "name": "Olivia Casder",
+    "sex": "F",
+    "age": null,
+    "chip_time": "22:19.69"
+  },
+  {
+    "place": 219,
+    "bib": 362,
+    "name": "Climber 362",
+    "sex": "M",
+    "age": null,
+    "chip_time": "22:21.56"
+  },
+  {
+    "place": 220,
+    "bib": 401,
+    "name": "Likas Casder",
+    "sex": "M",
+    "age": null,
+    "chip_time": "22:24.55"
+  },
+  {
+    "place": 221,
+    "bib": 243,
+    "name": "Tara Ramroop",
+    "sex": "F",
+    "age": 44,
+    "chip_time": "22:31.36"
+  },
+  {
+    "place": 222,
+    "bib": 192,
+    "name": "Heydee Mena",
+    "sex": "F",
+    "age": 47,
+    "chip_time": "22:47.13"
+  },
+  {
+    "place": 223,
+    "bib": 428,
+    "name": "Majdi Ababneh",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "22:59.3"
+  },
+  {
+    "place": 224,
+    "bib": 53,
+    "name": "Jennifer Cheung",
+    "sex": "F",
+    "age": 54,
+    "chip_time": "23:00.7"
+  },
+  {
+    "place": 225,
+    "bib": 148,
+    "name": "Jamie Keith",
+    "sex": "F",
+    "age": 36,
+    "chip_time": "23:07.33"
+  },
+  {
+    "place": 226,
+    "bib": 334,
+    "name": "Chuck Worley",
+    "sex": "M",
+    "age": 79,
+    "chip_time": "23:10.52"
+  },
+  {
+    "place": 227,
+    "bib": 259,
+    "name": "Kristin Russell",
+    "sex": "F",
+    "age": 48,
+    "chip_time": "23:23.25"
+  },
+  {
+    "place": 228,
+    "bib": 195,
+    "name": "Ramakrishnan Mg",
+    "sex": "M",
+    "age": 47,
+    "chip_time": "23:34.46"
+  },
+  {
+    "place": 229,
+    "bib": 241,
+    "name": "Srinivasan Ramaswamy",
+    "sex": "M",
+    "age": 42,
+    "chip_time": "23:45.22"
+  },
+  {
+    "place": 230,
+    "bib": 227,
+    "name": "Harsh Patel",
+    "sex": "M",
+    "age": 22,
+    "chip_time": "23:53.98"
+  },
+  {
+    "place": 231,
+    "bib": 115,
+    "name": "Shobhit Gogia",
+    "sex": "M",
+    "age": 40,
+    "chip_time": "24:14.48"
+  },
+  {
+    "place": 232,
+    "bib": 284,
+    "name": "Cinditas Sin",
+    "sex": "F",
+    "age": 42,
+    "chip_time": "24:24.07"
+  },
+  {
+    "place": 233,
+    "bib": 82,
+    "name": "Molly Doan",
+    "sex": "F",
+    "age": 45,
+    "chip_time": "24:25.82"
+  },
+  {
+    "place": 234,
+    "bib": 33,
+    "name": "Danielle Boiser",
+    "sex": "F",
+    "age": 25,
+    "chip_time": "24:31.61"
+  },
+  {
+    "place": 235,
+    "bib": 40,
+    "name": "John Brown",
+    "sex": "M",
+    "age": 49,
+    "chip_time": "24:33"
+  },
+  {
+    "place": 236,
+    "bib": 104,
+    "name": "Amy Freer",
+    "sex": "F",
+    "age": 51,
+    "chip_time": "24:42.54"
+  },
+  {
+    "place": 237,
+    "bib": 314,
+    "name": "Sabrina Truong",
+    "sex": "F",
+    "age": 33,
+    "chip_time": "25:04.41"
+  },
+  {
+    "place": 238,
+    "bib": 44,
+    "name": "Carla Carmona",
+    "sex": "F",
+    "age": 62,
+    "chip_time": "25:23.45"
+  },
+  {
+    "place": 239,
+    "bib": 30,
+    "name": "Kristin Boettger",
+    "sex": "F",
+    "age": 60,
+    "chip_time": "25:33.88"
+  },
+  {
+    "place": 240,
+    "bib": 228,
+    "name": "Yuliya Patsay",
+    "sex": "F",
+    "age": 43,
+    "chip_time": "25:59.25"
+  },
+  {
+    "place": 241,
+    "bib": 420,
+    "name": "Climber 420",
+    "sex": "M",
+    "age": null,
+    "chip_time": "26:15.65"
+  },
+  {
+    "place": 242,
+    "bib": 316,
+    "name": "Natalya Vaksman",
+    "sex": "F",
+    "age": 42,
+    "chip_time": "26:16.13"
+  },
+  {
+    "place": 243,
+    "bib": 58,
+    "name": "Rachel Church",
+    "sex": "F",
+    "age": 42,
+    "chip_time": "26:19.64"
+  },
+  {
+    "place": 244,
+    "bib": 340,
+    "name": "Jieyuan Zhao",
+    "sex": "F",
+    "age": 41,
+    "chip_time": "26:30.3"
+  },
+  {
+    "place": 245,
+    "bib": 240,
+    "name": "Malarmannan Raman",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "26:30.63"
+  },
+  {
+    "place": 246,
+    "bib": 226,
+    "name": "Darshan Patel",
+    "sex": "M",
+    "age": 58,
+    "chip_time": "26:32.38"
+  },
+  {
+    "place": 247,
+    "bib": 339,
+    "name": "Alex George Zachariah",
+    "sex": "M",
+    "age": 42,
+    "chip_time": "27:10.87"
+  },
+  {
+    "place": 248,
+    "bib": 271,
+    "name": "Paul Senior",
+    "sex": "M",
+    "age": 81,
+    "chip_time": "27:11.26"
+  },
+  {
+    "place": 249,
+    "bib": 199,
+    "name": "Leslie Moody",
+    "sex": "F",
+    "age": 48,
+    "chip_time": "27:19.76"
+  },
+  {
+    "place": 250,
+    "bib": 38,
+    "name": "Pat Britland",
+    "sex": "M",
+    "age": 73,
+    "chip_time": "27:43.15"
+  },
+  {
+    "place": 251,
+    "bib": 51,
+    "name": "Rachel Chang",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "27:49.83"
+  },
+  {
+    "place": 252,
+    "bib": 89,
+    "name": "Betsy Enkhbold",
+    "sex": "F",
+    "age": 45,
+    "chip_time": "27:51.11"
+  },
+  {
+    "place": 253,
+    "bib": 346,
+    "name": "Climber 346",
+    "sex": "M",
+    "age": null,
+    "chip_time": "28:03.61"
+  },
+  {
+    "place": 254,
+    "bib": 409,
+    "name": "Adriene Concus",
+    "sex": "F",
+    "age": null,
+    "chip_time": "28:05.43"
+  },
+  {
+    "place": 255,
+    "bib": 245,
+    "name": "Dev Rana",
+    "sex": "M",
+    "age": 29,
+    "chip_time": "28:07"
+  },
+  {
+    "place": 256,
+    "bib": 125,
+    "name": "Anni Guzman",
+    "sex": "F",
+    "age": 46,
+    "chip_time": "28:07.63"
+  },
+  {
+    "place": 257,
+    "bib": 419,
+    "name": "Sunil Shivappa",
+    "sex": "M",
+    "age": null,
+    "chip_time": "28:13.83"
+  },
+  {
+    "place": 258,
+    "bib": 425,
+    "name": "Aracely Rodriguez",
+    "sex": "F",
+    "age": null,
+    "chip_time": "28:22.48"
+  },
+  {
+    "place": 259,
+    "bib": 182,
+    "name": "Janine Marasigan",
+    "sex": "F",
+    "age": 27,
+    "chip_time": "28:27.63"
+  },
+  {
+    "place": 260,
+    "bib": 119,
+    "name": "Daniel Grecian",
+    "sex": "M",
+    "age": 70,
+    "chip_time": "28:28.14"
+  },
+  {
+    "place": 261,
+    "bib": 430,
+    "name": "Chloe Baker",
+    "sex": "F",
+    "age": null,
+    "chip_time": "28:28.39"
+  },
+  {
+    "place": 262,
+    "bib": 363,
+    "name": "Climber 363",
+    "sex": "M",
+    "age": null,
+    "chip_time": "28:32.56"
+  },
+  {
+    "place": 263,
+    "bib": 357,
+    "name": "Climber 357",
+    "sex": "M",
+    "age": null,
+    "chip_time": "28:35.28"
+  },
+  {
+    "place": 264,
+    "bib": 423,
+    "name": "Climber 423",
+    "sex": "M",
+    "age": null,
+    "chip_time": "29:03.89"
+  },
+  {
+    "place": 265,
+    "bib": 250,
+    "name": "Diana Rieve",
+    "sex": "F",
+    "age": 56,
+    "chip_time": "29:04"
+  },
+  {
+    "place": 266,
+    "bib": 400,
+    "name": "Climber 400",
+    "sex": "M",
+    "age": null,
+    "chip_time": "29:45"
+  },
+  {
+    "place": 267,
+    "bib": 296,
+    "name": "Steve Stathopoulos",
+    "sex": "M",
+    "age": 61,
+    "chip_time": "29:54.1"
+  },
+  {
+    "place": 268,
+    "bib": 333,
+    "name": "Natalie Worden",
+    "sex": "F",
+    "age": 48,
+    "chip_time": "30:46.45"
+  },
+  {
+    "place": 269,
+    "bib": 55,
+    "name": "Janet Chiu",
+    "sex": "F",
+    "age": 43,
+    "chip_time": "30:47.93"
+  },
+  {
+    "place": 270,
+    "bib": 324,
+    "name": "Cynthia Weinthaler",
+    "sex": "F",
+    "age": 63,
+    "chip_time": "30:55.22"
+  },
+  {
+    "place": 271,
+    "bib": 370,
+    "name": "Unknown Partic. 370",
+    "sex": "M",
+    "age": null,
+    "chip_time": "31:23.79"
+  },
+  {
+    "place": 272,
+    "bib": 201,
+    "name": "Crystal Morataya",
+    "sex": "F",
+    "age": 34,
+    "chip_time": "31:57.57"
+  },
+  {
+    "place": 273,
+    "bib": 431,
+    "name": "Climber 431",
+    "sex": "M",
+    "age": null,
+    "chip_time": "32:07.46"
+  },
+  {
+    "place": 274,
+    "bib": 403,
+    "name": "Sean Casder",
+    "sex": "M",
+    "age": null,
+    "chip_time": "32:41.43"
+  },
+  {
+    "place": 275,
+    "bib": 298,
+    "name": "Dennis Su",
+    "sex": "M",
+    "age": 52,
+    "chip_time": "32:47.61"
+  },
+  {
+    "place": 276,
+    "bib": 43,
+    "name": "Sarah Carder",
+    "sex": "F",
+    "age": 45,
+    "chip_time": "32:56.9"
+  },
+  {
+    "place": 277,
+    "bib": 15,
+    "name": "Anita Ashford",
+    "sex": "F",
+    "age": 60,
+    "chip_time": "33:31.98"
+  },
+  {
+    "place": 278,
+    "bib": 161,
+    "name": "Eny Lai",
+    "sex": "F",
+    "age": 50,
+    "chip_time": "33:50.63"
+  },
+  {
+    "place": 279,
+    "bib": 373,
+    "name": "Climber 373",
+    "sex": "M",
+    "age": null,
+    "chip_time": "33:55.37"
+  },
+  {
+    "place": 280,
+    "bib": 282,
+    "name": "Odessa Silva",
+    "sex": "F",
+    "age": 42,
+    "chip_time": "34:05.01"
+  },
+  {
+    "place": 281,
+    "bib": 62,
+    "name": "4lola Collier",
+    "sex": "F",
+    "age": 52,
+    "chip_time": "34:25.37"
+  },
+  {
+    "place": 282,
+    "bib": 54,
+    "name": "Angela Chi",
+    "sex": "F",
+    "age": 34,
+    "chip_time": "34:46.99"
+  },
+  {
+    "place": 283,
+    "bib": 18,
+    "name": "Kristen Azevedo",
+    "sex": "F",
+    "age": 41,
+    "chip_time": "34:47.31"
+  },
+  {
+    "place": 284,
+    "bib": 22,
+    "name": "Melissa Bell",
+    "sex": "F",
+    "age": 41,
+    "chip_time": "34:52.44"
+  },
+  {
+    "place": 285,
+    "bib": 83,
+    "name": "Di-an Duong",
+    "sex": "F",
+    "age": 33,
+    "chip_time": "35:07.65"
+  },
+  {
+    "place": 286,
+    "bib": 299,
+    "name": "Linda Summers-Pirkle",
+    "sex": "F",
+    "age": null,
+    "chip_time": "35:15.39"
+  },
+  {
+    "place": 287,
+    "bib": 377,
+    "name": "Climber 377",
+    "sex": "M",
+    "age": null,
+    "chip_time": "35:24.1"
+  },
+  {
+    "place": 288,
+    "bib": 263,
+    "name": "Stacy Sanders",
+    "sex": "F",
+    "age": 54,
+    "chip_time": "39:52.92"
+  },
+  {
+    "place": 289,
+    "bib": 153,
+    "name": "Shon Khan",
+    "sex": "M",
+    "age": 39,
+    "chip_time": "40:18.59"
+  },
+  {
+    "place": 290,
+    "bib": 329,
+    "name": "Steven Wong",
+    "sex": "M",
+    "age": 31,
+    "chip_time": "40:26.64"
+  },
+  {
+    "place": 291,
+    "bib": 266,
+    "name": "Chris Savasta",
+    "sex": "M",
+    "age": 42,
+    "chip_time": "41:39.4"
+  },
+  {
+    "place": 292,
+    "bib": 200,
+    "name": "Ruby Morales",
+    "sex": "F",
+    "age": 33,
+    "chip_time": "41:39.59"
+  },
+  {
+    "place": 293,
+    "bib": 194,
+    "name": "Heather Merkouris",
+    "sex": "F",
+    "age": 51,
+    "chip_time": "41:43.81"
+  },
+  {
+    "place": 294,
+    "bib": 405,
+    "name": "Dasha Ortenberg",
+    "sex": "F",
+    "age": 43,
+    "chip_time": "42:17.68"
+  },
+  {
+    "place": 295,
+    "bib": 408,
+    "name": "Samantha Ortiz",
+    "sex": "F",
+    "age": 29,
+    "chip_time": "44:33.76"
+  },
+  {
+    "place": 296,
+    "bib": 413,
+    "name": "Monique Garris",
+    "sex": "F",
+    "age": null,
+    "chip_time": "44:54.45"
+  },
+  {
+    "place": 297,
+    "bib": 319,
+    "name": "Jennifer Vertrees",
+    "sex": "F",
+    "age": 49,
+    "chip_time": "45:39.66"
+  },
+  {
+    "place": 298,
+    "bib": 124,
+    "name": "Joy Gutierrez-Pilare",
+    "sex": "F",
+    "age": 51,
+    "chip_time": "53:44.91"
+  },
+  {
+    "place": 299,
+    "bib": 232,
+    "name": "Gerald Pilare",
+    "sex": "M",
+    "age": 51,
+    "chip_time": "53:46.73"
+  },
+  {
+    "place": 300,
+    "bib": 162,
+    "name": "Michael Lai",
+    "sex": "M",
+    "age": 47,
+    "chip_time": "1:01:35.12"
+  }
+]
